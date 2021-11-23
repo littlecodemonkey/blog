@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Journey</title>
+    <link>http://www.1oca1host.com/blog/</link>
+    <description>Recent content on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://www.1oca1host.com/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
