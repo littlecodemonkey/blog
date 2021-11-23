@@ -1,6 +1,6 @@
-# hugo server --minify --themesDir ... --baseURL=http://1oca1host.com/blog
+# hugo server --minify --themesDir ... --baseURL=http://1oca1host.com
 
-baseURL = 'http://www.1oca1host.com/blog'
+baseURL = 'https://www.1oca1host.com/blog'
 languageCode = 'en-us'
 title = 'My Journey'
 publishDir = 'docs'
