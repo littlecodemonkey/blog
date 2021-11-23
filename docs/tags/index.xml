@@ -5,6 +5,70 @@
     <link>https://www.1oca1host.com/blog/tags/</link>
     <description>Recent content in Tags on My Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.1oca1host.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>development</title>
+      <link>https://www.1oca1host.com/blog/tags/development/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://www.1oca1host.com/blog/tags/go/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go, development, golang, templates</title>
+      <link>https://www.1oca1host.com/blog/tags/go-development-golang-templates/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/go-development-golang-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://www.1oca1host.com/blog/tags/golang/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://www.1oca1host.com/blog/tags/templates/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www.1oca1host.com/blog/tags/themes/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go, development, golang</title>
+      <link>https://www.1oca1host.com/blog/tags/go-development-golang/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/go-development-golang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

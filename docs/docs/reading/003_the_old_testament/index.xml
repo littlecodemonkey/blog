@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Journey</title>
+    <link>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/</link>
+    <description>Recent content on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/001_genesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/001_genesis/</guid>
+      <description>Genesis #  test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/002_exodus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/002_exodus/</guid>
+      <description>Exodus #  test</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Journey</title>
+    <link>https://www.1oca1host.com/blog/docs/reading/</link>
+    <description>Recent content on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/docs/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</guid>
+      <description>Bhagavad Gita #  By Vyasa Buttons are styled links that can lead to local page or external link.
+Part 1 (Chapters 1-6) #  Chapter 1 #  Krishna
+Chapter 2 #  Test
+Part 2 (Chapter 7-12) #  Part 3 (Chapter 13-18) #  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/002_gilgamesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/002_gilgamesh/</guid>
+      <description>Gilgamesh #  By unknown test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/004_iliad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/004_iliad/</guid>
+      <description>The Iliad #  By Homer
+test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/005_odyssey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/005_odyssey/</guid>
+      <description>The Odyssey #  By Homer
+test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/006_histories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/006_histories/</guid>
+      <description>Histories #  By Herodotus</description>
+    </item>
+    
+  </channel>
+</rss>

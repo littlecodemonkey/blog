@@ -5,6 +5,112 @@
     <link>https://www.1oca1host.com/blog/</link>
     <description>Recent content on My Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.1oca1host.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 3</title>
+      <link>https://www.1oca1host.com/blog/posts/20211123/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/posts/20211123/</guid>
+      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>https://www.1oca1host.com/blog/posts/20211122/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/posts/20211122/</guid>
+      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Test 1</title>
+      <link>https://www.1oca1host.com/blog/posts/20211121/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/posts/20211121/</guid>
+      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</guid>
+      <description>Bhagavad Gita #  By Vyasa Buttons are styled links that can lead to local page or external link.
+Part 1 (Chapters 1-6) #  Chapter 1 #  Krishna
+Chapter 2 #  Test
+Part 2 (Chapter 7-12) #  Part 3 (Chapter 13-18) #  </description>
+    </item>
+    
+    <item>
+      <title>Formatting Testing</title>
+      <link>https://www.1oca1host.com/blog/docs/doing/999_formatting_test/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/999_formatting_test/</guid>
+      <description>Test #  Markdown Content #  Markdown content
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/002_gilgamesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/002_gilgamesh/</guid>
+      <description>Gilgamesh #  By unknown test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/001_genesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/001_genesis/</guid>
+      <description>Genesis #  test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/002_exodus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/003_the_old_testament/002_exodus/</guid>
+      <description>Exodus #  test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/004_iliad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/004_iliad/</guid>
+      <description>The Iliad #  By Homer
+test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/005_odyssey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/005_odyssey/</guid>
+      <description>The Odyssey #  By Homer
+test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/006_histories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/006_histories/</guid>
+      <description>Histories #  By Herodotus</description>
+    </item>
+    
   </channel>
 </rss>
