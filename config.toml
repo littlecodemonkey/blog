@@ -3,7 +3,8 @@
 baseURL = 'http://www.1oca1host.com/blog'
 languageCode = 'en-us'
 title = 'My Journey'
-theme="hugo-book"
+publishDir = 'docs'
+theme = "hugo-book"
 
 BookSearch = true
 
