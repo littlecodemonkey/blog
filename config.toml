@@ -1,4 +1,5 @@
 # hugo server --minify --themesDir ... --baseURL=http://1oca1host.com/blog
+
 baseURL = 'http://1oca1host.com/blog'
 languageCode = 'en-us'
 title = 'My Journey'
