@@ -74,7 +74,7 @@ echo("test");
 
 ## YouTube
 Use the ID of the youtube video
-{{ < youtube VqHcDmcvczQ >}}
+{{< youtube VqHcDmcvczQ >}}
 
 ```
 {{< youtube VqHcDmcvczQ >}}
