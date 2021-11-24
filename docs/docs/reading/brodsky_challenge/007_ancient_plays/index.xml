@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Journey</title>
+    <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/</link>
+    <description>Recent content on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</guid>
+      <description>Sophocles #  Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</guid>
+      <description>Aeschylus #  Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</guid>
+      <description>Euripides #  Hippolytus #  The Bachantes #  Electra #  The Phoenician Women #  </description>
+    </item>
+    
+  </channel>
+</rss>

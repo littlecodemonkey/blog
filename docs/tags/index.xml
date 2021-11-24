@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://www.1oca1host.com/blog/tags/development/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://www.1oca1host.com/blog/tags/go/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>go, development, golang, templates</title>
       <link>https://www.1oca1host.com/blog/tags/go-development-golang-templates/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
@@ -35,29 +17,11 @@
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://www.1oca1host.com/blog/tags/golang/</link>
+      <title>spirituality</title>
+      <link>https://www.1oca1host.com/blog/tags/spirituality/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.1oca1host.com/blog/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://www.1oca1host.com/blog/tags/templates/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://www.1oca1host.com/blog/tags/themes/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/themes/</guid>
+      <guid>https://www.1oca1host.com/blog/tags/spirituality/</guid>
       <description></description>
     </item>
     
@@ -67,6 +31,15 @@
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.1oca1host.com/blog/tags/go-development-golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://www.1oca1host.com/blog/tags/go/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/tags/go/</guid>
       <description></description>
     </item>
     

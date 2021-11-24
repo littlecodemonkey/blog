@@ -6,7 +6,7 @@
     <description>Recent content in go on My Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 1</title>
       <link>https://www.1oca1host.com/blog/posts/20211121/</link>
@@ -14,18 +14,6 @@
       
       <guid>https://www.1oca1host.com/blog/posts/20211121/</guid>
       <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/001_bhagavad_gita/</guid>
-      <description>Bhagavad Gita #  By Vyasa Buttons are styled links that can lead to local page or external link.
-Part 1 (Chapters 1-6) #  Chapter 1 #  Krishna
-Chapter 2 #  Test
-Part 2 (Chapter 7-12) #  Part 3 (Chapter 13-18) #  </description>
     </item>
     
   </channel>
