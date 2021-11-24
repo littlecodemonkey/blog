@@ -75,9 +75,17 @@ echo("test");
 ## YouTube
 Use the ID of the youtube video
 {{< youtube VqHcDmcvczQ >}}
-
-```
-{{< youtube VqHcDmcvczQ >}}
-
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
-```
+
+
+## flowchart
+{{< mermaid class="text-center" >}}
+stateDiagram-v2
+    State1: The state with a note
+    note right of State1
+        Important information! You can write
+        notes.
+    end note
+    State1 --> State2
+    note left of State2 : This is the note to the left.
+{{< /mermaid >}}
