@@ -1,3 +1,0 @@
-# Gilgamesh
-By unknown
-test
