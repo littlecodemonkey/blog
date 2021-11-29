@@ -1,62 +1,16 @@
 ---
 title: Introduction
 type: docs
+bookToc: false
 ---
 
 # My Modern Renaissance Journey
 
 {{< tabs "uniqueid" >}}
-{{< tab "Woodworking" >}}
-
-## Woodworking
-My son and I have a weekly woodworking and maker channel on YouTube called [Friday Workshop](https://www.youtube.com/channel/UCw_6_OqDIcTAPEFeYzbuY_w).
-
-Feel free to follow us to see the projects we build, and watch our journey of making cool stuff. We currently have well over 50 videos online and you can find some of the videos here.
-
-{{< youtube id="VqHcDmcvczQ" title="Shop Tour 2021" >}}
-{{< /tab >}}
-{{< tab "Understanding" >}}
-## Understanding
-I'm currently challenging myself with I call the **Brodsky Challenge**. I just made it up so I'm not even sure if it existed before this. I'm reading up on the 83 books Joseph Brodsky recommended a person read before they could have a basic conversation.
-
-My assumption is that he meant an intelligent conversation, because this list is quite daunting. I'll be showing my progress on this site.
-
-The list of books I have chosen for my **Brodsky Challenge** is located on my website [HERE](/blog/docs/reading)
-
-{{< hint info >}}
-{{< figure src="/blog/img/index/1920px-Joseph_Brodsky_1988.jpg" alt="Brodsky" width="250px" >}}
-Anefo / Croes, R.C. - Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANEFO), 1945-1989 Bestanddeelnummer 934-3497
-{{< /hint >}}
-{{< /tab >}}
-{{< tab "Fencing" >}}
-## Fencing
-I have studied both modern Olympic style fencing and medeival rapier combat. My modern fencing instruction has mostly been within the Epee tradition. This is a style of Olympic fencing where a touch on any party of the body is considered vaild. It is what I have found to be most like rapier combat.
-
-In rapier combat I have studied single sword combat, sword and shield, sword and buckler, sword and rotella, case (two swords), sword and cloak, sword and dagger, and dagger combat.
-
-My focus has been mostly unpacking the works of Nicoletto Giganti in 1606 and 1622. I have also studied the works of Salvator Fabris, Achille Marozzo, Ridolfo Capo Ferro, Camilo Agrippa, Giacomo di Grassi, and George Silver. Mostly, my focus has been on the Baroque period of swordfighting. 
-
-In late 2018, I tore my ACL in my knee in a fencing tournament and I have of late slowed down in the hobby. ACL reconstruction surgey with a cadaver ACL has proven a slow recovery process. I'm not certain that I'll ever get my knees back up to "fighting shape" unfortunatly.
-
-{{< hint info >}}
-{{< figure src="/blog/img/index/Giganti_Nicoletto.jpg" alt="Giganti" width="250px" >}}
-
-Giganti, Nicoletto - Scola, overo, teatro: nel qual sono rappresentate diverse maniere, e modi di parare et di ferire di spada sola, e di spada e pugnale. Padua, 1628.
-{{< /hint >}}
-{{< /tab >}}
-{{< tab "Billiards" >}}
-## Billiards
-After my fencing injury, I picked up the game of billiards. It was in many ways more similar than I thought it would be. Learning the physics behind the game has been my favorite part, and the book **The Science of Pocket Billiards** by Jack H. Koehler
-was instrumental in my journey. I also spent a weekend with professional pool player Demitrius Jelatis. His mentorship has also helped me rise more quickly in the game than I would have on my own. I play billiards on a pool league whenever I can. My goal is to get better at the game and to learn more about the game of billiards. It's a slow learning process, but I'm getting better at it.
-
-I have my own pool table, and I play competitivly nine ball and eight ball league and tournaments. I started ranked at a 3 out of a possible 7, and am now currently ranked a 6 out of a possible 7 in the APA amateur pool league handicap system. 
-
-{{< figure src="/blog/img/index/content.jpg" alt="Book Title">}}
-{{< /tab >}}
 {{< tab "Technology" >}}
 ## Technology
 
-I am a Lead Security Engineer with a passion for the researching of security vulnerabilities in enterprise software.
+I am a Lead Security Engineer with a passion for researching security vulnerabilities in enterprise software.
 
 ALSO
 - Configuration and Change Management
@@ -106,6 +60,53 @@ I also enjoy participating in computer hacking competitions, also called "Hackin
 - My Homepage can be found here: [Homepage](http://1oca1host.com)
 - My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/kunzman/)
 - My GitHub can be found here: [Github](https://github.com/littlecodemonkey)
+{{< /tab >}}
+{{< tab "Woodworking" >}}
+
+## Woodworking
+My son and I have a weekly woodworking and maker channel on YouTube called [Friday Workshop](https://www.youtube.com/channel/UCw_6_OqDIcTAPEFeYzbuY_w).
+
+Feel free to follow us to see the projects we build, and watch our journey of making cool stuff. We currently have well over 50 videos online and you can find some of the videos here.
+
+{{< youtube id="VqHcDmcvczQ" title="Shop Tour 2021" >}}
+{{< /tab >}}
+{{< tab "Understanding" >}}
+## Understanding
+I'm currently challenging myself with I call the **Brodsky Challenge**. I just made it up so I'm not even sure if it existed before this. I'm reading up on the 83 books Joseph Brodsky recommended a person read before they could have a basic conversation.
+
+My assumption is that he meant an intelligent conversation, because this list is quite daunting. I'll be showing my progress on this site.
+
+The list of books I have chosen for my **Brodsky Challenge** is located on my website [HERE](/blog/docs/reading)
+
+{{< hint info >}}
+{{< figure src="/blog/img/index/1920px-Joseph_Brodsky_1988.jpg" alt="Brodsky" width="250px" >}}
+Anefo / Croes, R.C. - Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANEFO), 1945-1989 Bestanddeelnummer 934-3497
+{{< /hint >}}
+{{< /tab >}}
+{{< tab "Fencing" >}}
+## Fencing
+I have studied both modern Olympic style fencing and medeival rapier combat. My modern fencing instruction has mostly been within the Epee tradition. This is a style of Olympic fencing where a touch on any party of the body is considered vaild. It is what I have found to be most like rapier combat.
+
+In rapier combat I have studied single sword combat, sword and shield, sword and buckler, sword and rotella, case (two swords), sword and cloak, sword and dagger, and dagger combat.
+
+My focus has been mostly unpacking the works of Nicoletto Giganti in 1606 and 1622. I have also studied the works of Salvator Fabris, Achille Marozzo, Ridolfo Capo Ferro, Camilo Agrippa, Giacomo di Grassi, and George Silver. Mostly, my focus has been on the Baroque period of swordfighting. 
+
+In late 2018, I tore my ACL in my knee in a fencing tournament and I have of late slowed down in the hobby. ACL reconstruction surgey with a cadaver ACL has proven a slow recovery process. I'm not certain that I'll ever get my knees back up to "fighting shape" unfortunatly.
+
+{{< hint info >}}
+{{< figure src="/blog/img/index/Giganti_Nicoletto.jpg" alt="Giganti" width="250px" >}}
+
+Giganti, Nicoletto - Scola, overo, teatro: nel qual sono rappresentate diverse maniere, e modi di parare et di ferire di spada sola, e di spada e pugnale. Padua, 1628.
+{{< /hint >}}
+{{< /tab >}}
+{{< tab "Billiards" >}}
+## Billiards
+After my fencing injury, I picked up the game of billiards. It was in many ways more similar than I thought it would be. Learning the physics behind the game has been my favorite part, and the book **The Science of Pocket Billiards** by Jack H. Koehler
+was instrumental in my journey. I also spent a weekend with professional pool player Demitrius Jelatis. His mentorship has also helped me rise more quickly in the game than I would have on my own. I play billiards on a pool league whenever I can. My goal is to get better at the game and to learn more about the game of billiards. It's a slow learning process, but I'm getting better at it.
+
+I have my own pool table, and I play competitivly nine ball and eight ball league and tournaments. I started ranked at a 3 out of a possible 7, and am now currently ranked a 6 out of a possible 7 in the APA amateur pool league handicap system. 
+
+{{< figure src="/blog/img/index/content.jpg" alt="Book Title">}}
 {{< /tab >}}
 {{< tab "Future" >}}
 ## Future
