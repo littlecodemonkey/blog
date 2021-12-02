@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on My Journey</title>
+    <link>https://www.1oca1host.com/blog/categories/Cybersecurity/</link>
+    <description>Recent content in Cybersecurity on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/categories/Cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/doing/research/application_security/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/research/application_security/</guid>
+      <description>Application Security #  Book I am writing on application security.
+  Training
+ Training Employees  Designing Security Trainings      Requirements
+ Software Requirements  SDLC   Regulation (PCI/HIPPA/SOC/GDPR/CDPA) Prioritization  Identifying Stakeholders Prioritizing Projects with Security Concerns      Design
+ Best Practices for Design Risk Analysis: Application Threat Modeling  DREAD STRIDE Risk Matrix      Implementation (Coding)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</guid>
+      <description>Think Like an Attacker #  Book I am writing on thinking like an attacker.
+ Refrence to Brodsky challenge  How to think before how to think like an attacker   Critical thinking skills Problem solving skills Systems  Thinking in Systems Breaking Systems   Social engineering  Game theory Milgram&amp;rsquo;s study on obedience Psychological needs   Red team mindset  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formatting on My Journey</title>
+    <link>https://www.1oca1host.com/blog/docs/doing/formatting/</link>
+    <description>Recent content in Formatting on My Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/docs/doing/formatting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formatting Testing</title>
+      <link>https://www.1oca1host.com/blog/docs/doing/formatting/999_formatting_test/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/999_formatting_test/</guid>
+      <description>Test #  Markdown Content #  Markdown content
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/doing/formatting/ieee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/ieee/</guid>
+      <description>TITLE (CENTERED AND 24pt FONT) BYLINE (CENTERED AND 10PT FONT)
+ Author’s name (or authors’ names) Author affiliation(s) City &amp;amp; country location(s) E-mail address(es).  BODY (TWO COLUMNS 10pt FONT)
+ ABSTRACT (REQUIRED)  (150-250 words, bold - should be self-contained and summarize paper)   INDEX TERMS (REQUIRED)  Bold, Alphabetical, First one capitalized, rest are lowercase (except acronyms) EXAMPLE: Index Terms – Aerospace engineering, biomimetics, CMOS process, damascene integration, evolutionary computation, fuzzy systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/doing/formatting/ieee_paper_css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/ieee_paper_css/</guid>
+      <description>.title { font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; font-size: 24pt; font-style: normal; font-variant: normal; font-weight: normal; line-height: 12pt; margin-bottom: 12pt; text-align: center; text-transform: uppercase; }  TITLE CENTERED AND 24pt FONT  .byline { font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: normal; line-height: 12pt; margin-top: 0px; padding-top: 0px; text-align: center; }  Matthew Kunzman
+Boise, ID, USA</description>
+    </item>
+    
+  </channel>
+</rss>

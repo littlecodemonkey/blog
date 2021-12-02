@@ -1,3 +1,7 @@
+---
+bookHidden: true
+---
+
 TITLE (CENTERED AND 24pt FONT)
 BYLINE (CENTERED AND 10PT FONT)
 - Author’s name (or authors’ names)
