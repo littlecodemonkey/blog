@@ -47,10 +47,193 @@ After reading three different versions, the only part that caught me as difficul
 **Personal Takeaway**  
 One thing that really resonated and was timely about this was the fact that Krishna waited until Arjuna was in a horrible place in his life, and right in the middle of the battle to show him wisdom and tell him about God. If he was all powerful, why did he wait until this moment? There had to have been a better time. It made me think, and perhaps even realize, that maybe the timing was right. Sometimes you need to be in the right state of mind to accept knowledge. Perhaps, I myself wouldn't have gotten this out of the text had I read it earlier in life, when I was younger and had less experiences, so maybe there's a point to me going through this literary journey at this exact point in my life.
 {{< /hint >}}
-
+<!--
 ### Chapter 2
-Test
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 3
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 4
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 5
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 6
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
 
 ## Part 2 (Chapter 7-12)
+### Chapter 7
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 8
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 9
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 10
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 11
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 12
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
 
 ## Part 3 (Chapter 13-18)
+### Chapter 13
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+### Chapter 14
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 15
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 16
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 17
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+
+### Chapter 18
+#### Summary
+Lorem ipsum
+#### Thoughts
+Lorem ipsum
+
+{{< hint warning >}}
+**Personal Takeaway**  
+Lorem ipsum
+{{< /hint >}}
+-->

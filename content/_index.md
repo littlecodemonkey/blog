@@ -60,15 +60,43 @@ I also enjoy participating in computer hacking competitions, also called "Hackin
 - My Homepage can be found here: [Homepage](http://1oca1host.com)
 - My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/kunzman/)
 - My GitHub can be found here: [Github](https://github.com/littlecodemonkey)
+
+### Future Technology Plans
+- Write Book on Application Security
+- Write Book on Attacker Mindset
+- Take a deeper dive into cloud and containerization
+
 {{< /tab >}}
-{{< tab "Woodworking" >}}
+{{< tab "Vocational" >}}
+## Vocational
+My son and I have a weekly woodworking channel on YouTube called **[Friday Workshop](https://www.youtube.com/channel/UCw_6_OqDIcTAPEFeYzbuY_w)**. We currently have well over 50 videos online and you can find some of the videos [HERE](https://www.youtube.com/channel/UCw_6_OqDIcTAPEFeYzbuY_w).
 
-## Woodworking
-My son and I have a weekly woodworking and maker channel on YouTube called [Friday Workshop](https://www.youtube.com/channel/UCw_6_OqDIcTAPEFeYzbuY_w).
+{{< figure src="/blog/img/index/FW_logo_red.png" alt="FW Logo" >}}
 
-Feel free to follow us to see the projects we build, and watch our journey of making cool stuff. We currently have well over 50 videos online and you can find some of the videos here.
+### Friday Workshop Overview
+I chose the medium of woodworking originally to bond with my son over a jointly acquired skill. This has been wonderful, and the time that we have spent together has been amazing. This was also originally started to get him over the bordom of coronavirus lockdowns. After the lockdowns have subsided, we still continue to learn woodworking. 
 
-{{< youtube id="VqHcDmcvczQ" title="Shop Tour 2021" >}}
+### Surprise Knowledge
+We have found a passion for the hobby and really enjoy spending the time together. Not only have we gained the woodworking skills, but also the surprising bonus skills:
+
+- graphic artwork
+- video editing
+- audio editing
+- marketing
+- and other production skills that are required to keep a weekly channel on YouTube going. 
+
+### Future Plans
+We plan to branch out from woodworking into other makerspaces eventually and the plan is to get Friday Workshop involved in the following vocational skills.
+
+- Woodworking
+- Welding
+- Electronics
+- 3d printing
+- Machining
+
+
+
+
 {{< /tab >}}
 {{< tab "Understanding" >}}
 ## Understanding
@@ -82,6 +110,10 @@ The list of books I have chosen for my **Brodsky Challenge** is located on my we
 {{< figure src="/blog/img/index/1920px-Joseph_Brodsky_1988.jpg" alt="Brodsky" width="250px" >}}
 Anefo / Croes, R.C. - Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANEFO), 1945-1989 Bestanddeelnummer 934-3497
 {{< /hint >}}
+## Future Plans
+- Brodsky Challenge
+- Science Challenge
+
 {{< /tab >}}
 {{< tab "Fencing" >}}
 ## Fencing
@@ -98,6 +130,11 @@ In late 2018, I tore my ACL in my knee in a fencing tournament and I have of lat
 
 Giganti, Nicoletto - Scola, overo, teatro: nel qual sono rappresentate diverse maniere, e modi di parare et di ferire di spada sola, e di spada e pugnale. Padua, 1628.
 {{< /hint >}}
+
+## Future Plans
+Currently, I'm on a fencing hiatus, although I do miss the exercise.
+
+
 {{< /tab >}}
 {{< tab "Billiards" >}}
 ## Billiards
@@ -107,10 +144,20 @@ was instrumental in my journey. I also spent a weekend with professional pool pl
 I have my own pool table, and I play competitivly nine ball and eight ball league and tournaments. I started ranked at a 3 out of a possible 7, and am now currently ranked a 6 out of a possible 7 in the APA amateur pool league handicap system. 
 
 {{< figure src="/blog/img/index/content.jpg" alt="Book Title">}}
+
+## Future Plans
+In billiards, my current goal is to attain the maximum rank of a 7 in amateur pool. Doing so will require a deeper understanding of play, and a better understanding of the mental game. I plan to read the Inner Game of Tennis, and look a little deeper into sports psychology. At higher levels, the mental game seems to be signifiantly more and more important.
+
 {{< /tab >}}
+
+
 {{< tab "Future" >}}
-## Future
-In the future, I'm planning to dive even further into the depths of cybersecurity, and am considering possible PhD programs. I would like to look deeper into technical research. Also, I plan to research more into philosophy, writing, political thought, and sailing.
+## General Future Plans
+In the future, I'm planning to dive even further into the depths of cybersecurity, and am considering possible PhD programs. I would like to look deeper into technical research, and I believe my current passions could lead to a quality doctoral thesis. Also, I plan to research more into philosophy, writing, political thought, and sailing.
+
+I have multiple cybersecurity classes that I have created for my local university and I will be teaching those on a regular basis.
+
+As I get older, the humanities become more and more interesting to me; I believe this is due to simply having more experience to compare to philosophy. I have a passion and proclivity for cybersecurity, so I will spend some of my free time into researching the humanities that most relate to cybersecurity. I have joined a monthly online meetup that spans across multiple disciplines (and I believe also multiple universities). With these professionals doing humanities research, I plan to leverage help for my research into thinking like an attacker. Not a lot of work has gone into intentionally reproducing this mindset, and much of it is greenfield, but that also makes it interesting.
 
 {{< /tab >}}
 {{< /tabs >}}

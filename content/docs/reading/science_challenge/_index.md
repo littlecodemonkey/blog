@@ -52,13 +52,13 @@ by Michael Sikorski and Andrew Honig
 - Bad Science by Ben Goldacre
 - A Short History of Nearly Everything by Bill Bryson 
 - The New York Times Book of Science by The New York Times
-- Cosmos by Carl Sagan
 - The Structure of Scientific Revolutions by Thomas Kuhn
 
 ## Astronomy
 - Dialogue Concerning the Two Chief World Systems by Galileo Galilei
 - De Revolutionibus Orbium Coelestium (On the Revolutions of Heavenly Spheres) by Nicolaus Copernicus
 - A Brief History of Time by Stephen Hawking
+- Cosmos by Carl Sagan
 
 ## Biology
 - The Voyage of the Beagle by Charles Darwin
@@ -97,7 +97,6 @@ by Michael Sikorski and Andrew Honig
 - The Road to Serfdom by Hayek
 - Human Action by Mises
 - The General Theory of Employment, Interest and Money by John Maynard Keynes
-- Thinking, Fast and Slow by Daniel Kahneman
 - Capital in the Twenty-First Century by Piketty
 - Globalization and Its Discontents by Schumpeter
 - Individualism and Economic Order by Hayek
@@ -118,7 +117,6 @@ by Michael Sikorski and Andrew Honig
 
 ## Psychology
 - Man's Search for meaning by Viktor Frankl
-- Thinking, Fast and Slow by Daniel Kahneman
 - Letters from a Stoic by Seneca
 - The Selfish Gene by Richard Dawkins
 - The Man Who Mistook His Wife for a Hat and Other Clinical Tales by Oliver Sacks

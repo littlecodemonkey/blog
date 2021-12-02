@@ -1,5 +1,5 @@
 ---
 bookFlatSection: true
-title: Woodworking
+title: Vocational
 type: docs
 ---
