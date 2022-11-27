@@ -1,6 +1,6 @@
 ---
 description : "The Bhagavad Gita"
-date : "2021-11-23"
+date : "2022-11-27"
 tags : [
     "spirituality",
 ]
@@ -47,18 +47,34 @@ After reading three different versions, the only part that caught me as difficul
 **Personal Takeaway**  
 One thing that really resonated and was timely about this was the fact that Krishna waited until Arjuna was in a horrible place in his life, and right in the middle of the battle to show him wisdom and tell him about God. If he was all powerful, why did he wait until this moment? There had to have been a better time. It made me think, and perhaps even realize, that maybe the timing was right. Sometimes you need to be in the right state of mind to accept knowledge. Perhaps, I myself wouldn't have gotten this out of the text had I read it earlier in life, when I was younger and had less experiences, so maybe there's a point to me going through this literary journey at this exact point in my life.
 {{< /hint >}}
-<!--
+
 ### Chapter 2
 #### Summary
-Lorem ipsum
+This is about the practice of "yoga". This continues the conversation between Krishna and Arjuna. Arjuna is still hesitant to go to war. Krishna first tells him that he needs to be more of a man or he won't go to heaven. Arjuna, decides to not fight and Krishna changes tactics to take a more intellectual approach and explain more to Arjuna in detail.
+
+The Soul - 
+This talks a little about reincarnation at the beginning. About how our soul finds new bodies after death, and that while the body is affected by "weapons, fire, water, and air" the soul is not. It is never born and doesn't die. It is forever and unchanging. There is some contradiction later where Krishna says even if the soul is born and dies you shouldn't morn it because all things eventually end.
+
+The Dharma - 
+Dharma appears to be a relegious or moral duty from the text. It's listed as the responsibilities of a warrior (Kshritya). Krishna basically tells Arjuna to "man up" and be stronger. A lot of this is about honor and that disgrace is a fear worse than death. There is a logic that, if he fights for this Dharma and dies he will go to heaven, and if he wins and lives then he will also win and gain great wealth.
+
+The Kharma - 
+Krishna tells Arjuna to not think about fighting and just fight. If he acts without thinking of the reprecussions he can act without fear and his brain won't go haywire. Krishna then goes on to say that he should not worry about what he will gain from the action, that when action is performed for simply the action's sake without the thought of success or failure, it is called Yoga. He mentions that Yoga is liberating to the mind and body. Once you learn how to act without thinking then he won't need to learn anything from scriptures. 
+
+The Senses - 
+When the mind is untroubled, unatached from all things, and the person just acts, then that's a person of firm wisdom. He should avoid all senses and not dwell on senses because then he will desire things, desiring things leads to attachment of things, and attachment of things leads to anger, anger can lead to confusion and then weakness.
+
+The goal here seems to be serenity. He basically is trying to get Arjuna to calm down and gain control over his senses and emotions so that he can clear his mind.
+
 #### Thoughts
-Lorem ipsum
+This seems very similar to some of the stuff the stocis say, and I'm really interested to follow up with the works of Seneca, Epictetus, and Marus Aurillus later and compare notes to this. I can also see a lot of where modern yoga came out of this book. There's a lot in modern yoga about clearning the mind and avoiding attachments. The stuff on centering yourself and clearing your thoughts is facincating. You can really see how Krisna would be trying to convince him that everything was ok, and he could go ahead and fight.
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+Chapter 2 seems to be the most powerful in the whole book. There are some real interesting topics about the individual and how a person should act and think. It's incredible how more of these are applicable thousands of years later. 
 {{< /hint >}}
 
+<!--
 ### Chapter 3
 #### Summary
 Lorem ipsum
