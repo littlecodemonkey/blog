@@ -19,13 +19,15 @@ This is one of the oldest stories ever known. This is a Sumerian poem about Gilg
 
 There are twelve tablets. This is very significant as its stories parallel later works. A major one is the Bible's story of the flood in Genesis. The story also mirrors the Greek myth where Deucalion and his wife survive a great flood sent by Zeus and repopulate the Earth, although the story of Noah is much closer to Gilgamesh. A flood story predates Gilgamesh, and that's the Mesopotamian Epic myth of Atrahasis. A god tells Atrahasis to build a boat to survive a flood meant to wipe out humanity.
 
-### Takeaway Thoughts
-I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could be referring to wedding rings, or I could be misunderstanding this.
+{{< hint warning >}}
+**Personal Takeaway**  
+I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could be referring to wedding rings, or I could be misunderstanding this.{{< /hint >}}
+
 
 
 ## Book Summary
 ### Tablet I: Introduction and Gilgamesh's Rule
-Gilgamesh is described as a demi-god. He's two-thirds god and one-third human. He is strong and massive in size. However, he's very oppressive. One of the rights of the king is called "first rights". First rights is a royal privligde and the right a king has to be the first of anything. The first to resources, the first to food and the first to fruits of labor. Gilgamesh abused this by claiming the virginity of women on their wedding night. The people of Uruk feel he abused his first rights, but this one is the one they resented the most.
+Gilgamesh is described as a demi-god. He's two-thirds god and one-third human. He is strong and massive in size. However, he's very oppressive. One of the rights of the king is called "first rights". First rights are royal privileges, and the right a king has to be the first of anything. The first to resources, the first to food, and the first to fruits of labor. Gilgamesh abused this by claiming the virginity of women on their wedding night. The people of Uruk feel he abused his first rights, but this one is the one they resented the most.
 
 In response to the people's complaints, the gods created a wild man to confront him. This wild man is named Enkidu. Enkidu ends up being tricked into joining the human world by having sex with a human. The local farmer/hunter hired a prostitute to have sex with Enkidu so that he wouldn't be a wild animal anymore.
 
