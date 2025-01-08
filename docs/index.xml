@@ -2,562 +2,437 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on My Journey</title>
-    <link>https://www.1oca1host.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Introduction on My Journey</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.1oca1host.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 3</title>
-      <link>https://www.1oca1host.com/blog/posts/20211123/</link>
+      <link>http://localhost:1313/blog/posts/20211123/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/posts/20211123/</guid>
-      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://localhost:1313/blog/posts/20211123/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test 2</title>
-      <link>https://www.1oca1host.com/blog/posts/20211122/</link>
+      <link>http://localhost:1313/blog/posts/20211122/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/posts/20211122/</guid>
-      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://localhost:1313/blog/posts/20211122/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test 1</title>
-      <link>https://www.1oca1host.com/blog/posts/20211121/</link>
+      <link>http://localhost:1313/blog/posts/20211121/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/posts/20211121/</guid>
-      <description>Introduction #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://localhost:1313/blog/posts/20211121/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/doing/research/application_security/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/doing/research/application_security/</guid>
-      <description>Application Security #  Book I am writing on application security.
-  Training
- Training Employees  Designing Security Trainings      Requirements
- Software Requirements  SDLC   Regulation (PCI/HIPPA/SOC/GDPR/CDPA) Prioritization  Identifying Stakeholders Prioritizing Projects with Security Concerns      Design
- Best Practices for Design Risk Analysis: Application Threat Modeling  DREAD STRIDE Risk Matrix      Implementation (Coding)</description>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/002_gilgamesh/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/002_gilgamesh/</guid>
+      <description>&lt;h1 id=&#34;gilgamesh&#34;&gt;&#xA;  Gilgamesh&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gilgamesh&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Sin-Leqi-Unninni&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;&#xA;  Overview&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This is one of the oldest stories ever known. This is a Sumerian poem about Gilgamesh. Gilgamesh was the king of Uruk and ruled around 2700 BCE. This story was spoken and told orally, but clay tablets have been found. The tablets date back to around 2100 BCE. They are written in a cuneiform script called Akkadian. This was the Semitic language  used in the Assyrian and Babylonian Around 1200 BCE, and the tablets were then compiled into their most complete form and into one single story by a Babylonian priest named Sin-Leqi-Unninni around 1200 BCE. These were multiple tales that were compiled into a larger story. Fragments were found all over Mesopotamia, so this story was widespread. The most complete version is called the &amp;ldquo;Standard Babylonian Version,&amp;rdquo; and it was discovered in Ashurbanipal&amp;rsquo;s library (an Assyrian king). This was discovered around the mid-19th century.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</guid>
-      <description>Think Like an Attacker #  Book I am writing on thinking like an attacker.
- Refrence to Brodsky challenge  How to think before how to think like an attacker   Critical thinking skills Problem solving skills Systems  Thinking in Systems Breaking Systems   Social engineering  Game theory Milgram&amp;rsquo;s study on obedience Psychological needs   Red team mindset  </description>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/999_old_man_and_the_sea/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/999_old_man_and_the_sea/</guid>
+      <description>&lt;h1 id=&#34;the-old-man-and-the-sea&#34;&gt;&#xA;  The Old Man and the Sea&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-old-man-and-the-sea&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Ernest Hemingway&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;&#xA;  Overview&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;The Old Man and the Sea&amp;rdquo; is one of Ernest Hemingway&amp;rsquo;s most famous works. It was published in 1952, and this&#xA;year for Christmas my buddy Wayne gifted my a first edition of the Novel. It&amp;rsquo;s a fairly short books, and less than 200 pages.&#xA;It tells the story of an old man in a Cuban fishing village. This is a story of struggle, and it starts with the fisherman&#xA;going 84 days without catching a fish.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/001_bhagavad_gita/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/001_bhagavad_gita/</guid>
-      <description>Bhagavad Gita #  By Vyasa
-Summary #  The Bhagavad Gita is a spiritual book from around 200 BC. It was written by a man named Vyasa. As I looked deeper into this work, I found that I needed the context of where this book came from.
-This book appears to be a 700 verse excerpt from a larger work called the Mahabharata. This is truly an epic poem and is thousands of pages long.</description>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/001_bhagavad_gita/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/001_bhagavad_gita/</guid>
+      <description>&lt;h1 id=&#34;bhagavad-gita&#34;&gt;&#xA;  Bhagavad Gita&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bhagavad-gita&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Vyasa&lt;/p&gt;&#xA;&lt;h4 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;The Bhagavad Gita is a spiritual book from around 200 BC. It was written by a man named Vyasa. As I looked deeper into this work, I found that I needed the context of where this book came from.&lt;/p&gt;&#xA;&lt;p&gt;This book appears to be a 700 verse excerpt from a larger work called the Mahabharata. This is truly an epic poem and is thousands of pages long. It reads very much like a relegious text to me.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/docs/doing/research/application_security/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/doing/research/application_security/</guid>
+      <description>&lt;h1 id=&#34;application-security&#34;&gt;&#xA;  Application Security&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-security&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Book I am writing on application security.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Training&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Training Employees&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designing Security Trainings&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Requirements&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software Requirements&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SDLC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Regulation (PCI/HIPPA/SOC/GDPR/CDPA)&lt;/li&gt;&#xA;&lt;li&gt;Prioritization&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identifying Stakeholders&lt;/li&gt;&#xA;&lt;li&gt;Prioritizing Projects with Security Concerns&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Design&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Best Practices for Design&lt;/li&gt;&#xA;&lt;li&gt;Risk Analysis: Application Threat Modeling&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DREAD&lt;/li&gt;&#xA;&lt;li&gt;STRIDE&lt;/li&gt;&#xA;&lt;li&gt;Risk Matrix&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Implementation (Coding)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implementation Guidelines&lt;/li&gt;&#xA;&lt;li&gt;Secure coding practices&lt;/li&gt;&#xA;&lt;li&gt;Code Reviews&lt;/li&gt;&#xA;&lt;li&gt;OWASP Secure Headers Project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Verification (Testing)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Verification Guidelines&lt;/li&gt;&#xA;&lt;li&gt;SAST Testing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SonarQube&lt;/li&gt;&#xA;&lt;li&gt;Bandit&lt;/li&gt;&#xA;&lt;li&gt;Gosec&lt;/li&gt;&#xA;&lt;li&gt;npm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;DAST Testing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Burp&lt;/li&gt;&#xA;&lt;li&gt;OWASP ZAP&lt;/li&gt;&#xA;&lt;li&gt;Nikto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;False Positives&lt;/li&gt;&#xA;&lt;li&gt;Third Party Library Testing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Release&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/docs/doing/research/think_like_an_attacker/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/docs/doing/research/think_like_an_attacker/</guid>
+      <description>&lt;h1 id=&#34;think-like-an-attacker&#34;&gt;&#xA;  Think Like an Attacker&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#think-like-an-attacker&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Book I am writing on thinking like an attacker.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Refrence to Brodsky challenge&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to think before how to think like an attacker&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Critical thinking skills&lt;/li&gt;&#xA;&lt;li&gt;Problem solving skills&lt;/li&gt;&#xA;&lt;li&gt;Systems&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thinking in Systems&lt;/li&gt;&#xA;&lt;li&gt;Breaking Systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Social engineering&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Game theory&lt;/li&gt;&#xA;&lt;li&gt;Milgram&amp;rsquo;s study on obedience&lt;/li&gt;&#xA;&lt;li&gt;Psychological needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Red team mindset&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Formatting Testing</title>
-      <link>https://www.1oca1host.com/blog/docs/doing/formatting/999_formatting_test/</link>
+      <link>http://localhost:1313/blog/docs/doing/formatting/999_formatting_test/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/999_formatting_test/</guid>
-      <description>Test #  Markdown Content #  Markdown content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://localhost:1313/blog/docs/doing/formatting/999_formatting_test/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;&#xA;  Test&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;markdown-content&#34;&gt;&#xA;  Markdown Content&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#markdown-content&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &#xA;**Markdown content**  &#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xA;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;blockquote class=&#34;book-hint warning&#34;&gt;&#xA;  &#xA;**Markdown content**  &#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xA;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;blockquote class=&#34;book-hint danger&#34;&gt;&#xA;  &#xA;**Markdown content**  &#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xA;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;h2 id=&#34;math-functions&#34;&gt;&#xA;  Math Functions&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#math-functions&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/blog/blog/katex/katex.min.css&#34; /&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/blog/blog/katex/katex.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/blog/blog/katex/auto-render.min.js&#34; onload=&#34;renderMathInElement(document.body);&#34;&gt;&lt;/script&gt;&lt;span class=&#34;text-center&#34;&gt;&#xA;  \[&#xA;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xA;\]&#xA;&lt;/span&gt;&#xA;&#xA;&lt;h2 id=&#34;bold-text&#34;&gt;&#xA;  Bold Text&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bold-text&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bold Text&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/doing/formatting/ieee/</link>
+      <link>http://localhost:1313/blog/docs/doing/formatting/ieee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/ieee/</guid>
-      <description>TITLE (CENTERED AND 24pt FONT) BYLINE (CENTERED AND 10PT FONT)
- Author’s name (or authors’ names) Author affiliation(s) City &amp;amp; country location(s) E-mail address(es).  BODY (TWO COLUMNS 10pt FONT)
- ABSTRACT (REQUIRED)  (150-250 words, bold - should be self-contained and summarize paper)   INDEX TERMS (REQUIRED)  Bold, Alphabetical, First one capitalized, rest are lowercase (except acronyms) EXAMPLE: Index Terms – Aerospace engineering, biomimetics, CMOS process, damascene integration, evolutionary computation, fuzzy systems.</description>
+      <guid>http://localhost:1313/blog/docs/doing/formatting/ieee/</guid>
+      <description>&lt;p&gt;TITLE (CENTERED AND 24pt FONT)&#xA;BYLINE (CENTERED AND 10PT FONT)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Author’s name (or authors’ names)&lt;/li&gt;&#xA;&lt;li&gt;Author affiliation(s)&lt;/li&gt;&#xA;&lt;li&gt;City &amp;amp; country location(s)&lt;/li&gt;&#xA;&lt;li&gt;E-mail address(es).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;BODY (TWO COLUMNS 10pt FONT)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ABSTRACT (REQUIRED)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(150-250 words, bold - should be self-contained and summarize paper)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;INDEX TERMS (REQUIRED)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bold, Alphabetical, First one capitalized, rest are lowercase (except acronyms)&lt;/li&gt;&#xA;&lt;li&gt;EXAMPLE: Index Terms – Aerospace engineering, biomimetics, CMOS process, damascene integration, evolutionary computation, fuzzy systems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Body SECTIONS&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IEEE papers begin with a drop cap two lines deep, followed by the next 8-12 characters (or 1-2 words, whichever is appropriate) in all caps.&lt;/li&gt;&#xA;&lt;li&gt;Primary headings are enumerated with Roman numerals followed by a period, set in small caps, and centered above the text.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;EXAMPLE: I. PRIMARY HEADING&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Secondary headings are enumerated with capital letters followed by a period, set in italics and title case, left-aligned, unindented, and separated from the text by a line break.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A. Secondarhy Heading&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tertiary headings are enumerated by Arabic numerals followed by a close-parenthesis, set in italics and title case, left-aligned, indented one em, and separated from the text by a colon. There is no line break between the heading and the text.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tertiary Heading: Lorem Ipsum&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a) Quaternary heading: Lorem Ipsum&#xA;Quaternary headings are enumerated by lowercase letters followed by a close-parenthesis, set in italics and sentence case, left-aligned, indented two ems, and separated from the text by a colon. There is also no line break here.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Note to Practitioners (Optional)&lt;/li&gt;&#xA;&lt;li&gt;Nomenclature (Optional)&lt;/li&gt;&#xA;&lt;li&gt;Appendices (Optional)&lt;/li&gt;&#xA;&lt;li&gt;Acknowledgements (Optional)&lt;/li&gt;&#xA;&lt;li&gt;Refrences (optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;  &lt;a href=&#34;https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_general_format.html&#34;&gt;https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_general_format.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/doing/formatting/ieee_paper_css/</link>
+      <link>http://localhost:1313/blog/docs/doing/formatting/ieee_paper_css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/doing/formatting/ieee_paper_css/</guid>
-      <description>.title { font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; font-size: 24pt; font-style: normal; font-variant: normal; font-weight: normal; line-height: 12pt; margin-bottom: 12pt; text-align: center; text-transform: uppercase; }  TITLE CENTERED AND 24pt FONT  .byline { font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: normal; line-height: 12pt; margin-top: 0px; padding-top: 0px; text-align: center; }  Matthew Kunzman
-Boise, ID, USA</description>
+      <guid>http://localhost:1313/blog/docs/doing/formatting/ieee_paper_css/</guid>
+      <description>&lt;br /&gt;&#xA;&lt;style&gt;&#xA;    .title {&#xA;        font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; &#xA;        font-size: 24pt; &#xA;        font-style: normal; &#xA;        font-variant: normal; &#xA;        font-weight: normal; &#xA;        line-height: 12pt;&#xA;        margin-bottom: 12pt;&#xA;        text-align: center;&#xA;        text-transform: uppercase;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;p class=&#39;title&#39;&gt; TITLE CENTERED AND 24pt FONT &lt;/p&gt;&#xA;&#xA;&lt;style&gt;&#xA;    .byline {&#xA;        font-family: TimesNewRoman, &#34;Times New Roman&#34;, Times, Baskerville, Georgia, serif; &#xA;        font-size: 10pt; &#xA;        font-style: normal; &#xA;        font-variant: normal; &#xA;        font-weight: normal; &#xA;        line-height: 12pt;&#xA;        margin-top: 0px;&#xA;        padding-top: 0px;&#xA;        text-align: center;&#xA;    }&#xA;&lt;/style&gt;&#xA;&lt;p class=&#39;byline&#39;&gt; &#xA;Matthew Kunzman&lt;br /&gt;&#xA;Boise, ID, USA&lt;br /&gt;&#xA;littlecodemonkey@gmail.com&lt;br /&gt;&#xA; &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/002_gilgamesh/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/001_genesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/002_gilgamesh/</guid>
-      <description>Gilgamesh #  By unknown test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/001_genesis/</guid>
+      <description>&lt;h1 id=&#34;genesis&#34;&gt;&#xA;  Genesis&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#genesis&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/001_genesis/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/002_exodus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/001_genesis/</guid>
-      <description>Genesis #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/002_exodus/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/002_exodus/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/003_leviticus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/002_exodus/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/003_leviticus/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/003_leviticus/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/004_numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/003_leviticus/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/004_numbers/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/004_numbers/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/005_deuteronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/004_numbers/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/005_deuteronomy/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/005_deuteronomy/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/006_joshua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/005_deuteronomy/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/006_joshua/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/006_joshua/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/007_judges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/006_joshua/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/007_judges/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/007_judges/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/008_ruth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/007_judges/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/008_ruth/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/008_ruth/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/009_1_samuel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/008_ruth/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/009_1_samuel/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/009_1_samuel/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/010_2_samuel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/009_1_samuel/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/010_2_samuel/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/010_2_samuel/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/011_1_kings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/010_2_samuel/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/011_1_kings/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/011_1_kings/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/012_2_kings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/011_1_kings/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/012_2_kings/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/012_2_kings/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/013_1_chronicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/012_2_kings/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/013_1_chronicles/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/013_1_chronicles/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/014_2_chronicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/013_1_chronicles/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/014_2_chronicles/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/014_2_chronicles/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/015_ezra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/014_2_chronicles/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/015_ezra/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/015_ezra/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/016_nehemiah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/015_ezra/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/016_nehemiah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/016_nehemiah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/017_esther/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/016_nehemiah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/017_esther/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/017_esther/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/018_job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/017_esther/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/018_job/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/018_job/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/019_psalms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/018_job/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/019_psalms/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/019_psalms/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/020_proverbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/019_psalms/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/020_proverbs/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/020_proverbs/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/021_ecclesiastes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/020_proverbs/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/021_ecclesiastes/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/021_ecclesiastes/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/022_song_of_solomon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/021_ecclesiastes/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/022_song_of_solomon/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/022_song_of_solomon/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/023_isaiah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/022_song_of_solomon/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/023_isaiah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/023_isaiah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/024_jeremiah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/023_isaiah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/024_jeremiah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/024_jeremiah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/025_lamentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/024_jeremiah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/025_lamentations/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/025_lamentations/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/026_ezekiel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/025_lamentations/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/026_ezekiel/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/026_ezekiel/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/027_daniel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/026_ezekiel/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/027_daniel/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/027_daniel/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/028_hosea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/027_daniel/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/028_hosea/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/028_hosea/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/029_joel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/028_hosea/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/029_joel/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/029_joel/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/030_amos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/029_joel/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/030_amos/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/030_amos/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/031_obadiah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/030_amos/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/031_obadiah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/031_obadiah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/032_jonah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/031_obadiah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/032_jonah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/032_jonah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/033_micah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/032_jonah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/033_micah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/033_micah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/034_nahum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/033_micah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/034_nahum/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/034_nahum/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/035_habakkuk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/034_nahum/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/035_habakkuk/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/035_habakkuk/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/036_zaphaniah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/035_habakkuk/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/036_zaphaniah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/036_zaphaniah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/037_haggai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/036_zaphaniah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/037_haggai/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/037_haggai/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/038_zechariah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/037_haggai/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/038_zechariah/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/038_zechariah/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/039_malachi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/038_zechariah/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/003_the_old_testament/039_malachi/</guid>
+      <description>&lt;h1 id=&#34;exodus&#34;&gt;&#xA;  Exodus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exodus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/039_malachi/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/004_iliad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/003_the_old_testament/039_malachi/</guid>
-      <description>Exodus #  test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/004_iliad/</guid>
+      <description>&lt;h1 id=&#34;the-iliad&#34;&gt;&#xA;  The Iliad&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-iliad&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Homer&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/004_iliad/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/005_odyssey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/004_iliad/</guid>
-      <description>The Iliad #  By Homer
-test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/005_odyssey/</guid>
+      <description>&lt;h1 id=&#34;the-odyssey&#34;&gt;&#xA;  The Odyssey&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-odyssey&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Homer&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_odyssey/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/006_histories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_odyssey/</guid>
-      <description>The Odyssey #  By Homer
-test</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/006_histories/</guid>
+      <description>&lt;h1 id=&#34;histories&#34;&gt;&#xA;  Histories&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#histories&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Herodotus&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/006_histories/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/006_histories/</guid>
-      <description>Histories #  By Herodotus</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</guid>
+      <description>&lt;h1 id=&#34;sophocles&#34;&gt;&#xA;  Sophocles&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sophocles&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/001_sophocles/</guid>
-      <description>Sophocles #  Lorem Ipsum</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</guid>
+      <description>&lt;h1 id=&#34;aeschylus&#34;&gt;&#xA;  Aeschylus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aeschylus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/002_aeschylus/</guid>
-      <description>Aeschylus #  Lorem Ipsum</description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</guid>
+      <description>&lt;h1 id=&#34;euripides&#34;&gt;&#xA;  Euripides&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#euripides&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;hippolytus&#34;&gt;&#xA;  Hippolytus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hippolytus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-bachantes&#34;&gt;&#xA;  The Bachantes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-bachantes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;electra&#34;&gt;&#xA;  Electra&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#electra&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-phoenician-women&#34;&gt;&#xA;  The Phoenician Women&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-phoenician-women&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/008_the_peloponnesian_war/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/007_ancient_plays/003_euripides/</guid>
-      <description>Euripides #  Hippolytus #  The Bachantes #  Electra #  The Phoenician Women #  </description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/008_the_peloponnesian_war/</guid>
+      <description>&lt;h1 id=&#34;thucydides-the-peloponnesian-war&#34;&gt;&#xA;  Thucydides: The Peloponnesian War&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#thucydides-the-peloponnesian-war&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/008_the_peloponnesian_war/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/009_plato/001_dialogues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/008_the_peloponnesian_war/</guid>
-      <description>Thucydides: The Peloponnesian War #  </description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/009_plato/001_dialogues/</guid>
+      <description>&lt;h1 id=&#34;plato-dialogues&#34;&gt;&#xA;  Plato: Dialogues&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#plato-dialogues&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/009_plato/001_dialogues/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/001_physics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/009_plato/001_dialogues/</guid>
-      <description>Plato: Dialogues #  </description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/001_physics/</guid>
+      <description>&lt;h1 id=&#34;aristotle-physics&#34;&gt;&#xA;  Aristotle: Physics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aristotle-physics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/001_physics/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/002_ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/001_physics/</guid>
-      <description>Aristotle: Physics #  </description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/002_ethics/</guid>
+      <description>&lt;h1 id=&#34;aristotle-ethics&#34;&gt;&#xA;  Aristotle: Ethics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aristotle-ethics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/002_ethics/</link>
+      <link>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/003_de_anima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/002_ethics/</guid>
-      <description>Aristotle: Ethics #  </description>
+      <guid>http://localhost:1313/blog/docs/reading/brodsky_challenge/010_aristotle/003_de_anima/</guid>
+      <description>&lt;h1 id=&#34;aristotle-de-anima&#34;&gt;&#xA;  Aristotle: De Anima&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aristotle-de-anima&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/003_de_anima/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/010_aristotle/003_de_anima/</guid>
-      <description>Aristotle: De Anima #  </description>
-    </item>
-    
   </channel>
 </rss>

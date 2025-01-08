@@ -2,55 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Journey</title>
-    <link>https://www.1oca1host.com/blog/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on My Journey</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.1oca1host.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 13:10:08 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>go, development, golang, templates</title>
-      <link>https://www.1oca1host.com/blog/tags/go-development-golang-templates/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/go-development-golang-templates/</guid>
+      <title>Existentialism</title>
+      <link>http://localhost:1313/blog/tags/existentialism/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/existentialism/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Fishing</title>
+      <link>http://localhost:1313/blog/tags/fishing/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/fishing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literature</title>
+      <link>http://localhost:1313/blog/tags/literature/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spirituality</title>
+      <link>http://localhost:1313/blog/tags/spirituality/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Struggle</title>
+      <link>http://localhost:1313/blog/tags/struggle/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/struggle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go, Development, Golang, Templates</title>
+      <link>http://localhost:1313/blog/tags/go-development-golang-templates/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/go-development-golang-templates/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Research</title>
-      <link>https://www.1oca1host.com/blog/tags/Research/</link>
+      <link>http://localhost:1313/blog/tags/Research/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/Research/</guid>
+      <guid>http://localhost:1313/blog/tags/Research/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>spirituality</title>
-      <link>https://www.1oca1host.com/blog/tags/spirituality/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/spirituality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go, development, golang</title>
-      <link>https://www.1oca1host.com/blog/tags/go-development-golang/</link>
+      <title>Go, Development, Golang</title>
+      <link>http://localhost:1313/blog/tags/go-development-golang/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/go-development-golang/</guid>
+      <guid>http://localhost:1313/blog/tags/go-development-golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
-      <link>https://www.1oca1host.com/blog/tags/go/</link>
+      <title>Go</title>
+      <link>http://localhost:1313/blog/tags/go/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.1oca1host.com/blog/tags/go/</guid>
+      <guid>http://localhost:1313/blog/tags/go/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
