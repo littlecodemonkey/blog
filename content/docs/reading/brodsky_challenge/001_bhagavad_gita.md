@@ -13,6 +13,7 @@ categories : [
 # Bhagavad Gita
 By Vyasa
 
+## Overview
 #### Summary
 The Bhagavad Gita is a spiritual book from around 200 BC. It was written by a man named Vyasa. As I looked deeper into this work, I found that I needed the context of where this book came from.
 
@@ -36,6 +37,7 @@ The book seems best broken to me into three sections, chapters 1-6 (about the kn
 ## Part 1 (Chapters 1-6)
 This one is the easiest for me to break up. This one is pretty obvious and talks quite a bit on the self.
 
+## Book Summary
 ### Chapter 1
 #### Summary
 Krishna is hauling the chariot of Arjuna, and Arjuna feels like a badass and wants to be taken to the front lines to see the other side. There he sees relatives on both sides of the battle and it hits him hard. He knows that a lot of people are going to die, and he loses the will to fight. He doesn't want to kill the people he loves and feels that life is worthless if he can't spend it with his family. He thinks he's better off being killed without a fight and lays down his bow and slumps into his chariot.
@@ -43,10 +45,10 @@ Krishna is hauling the chariot of Arjuna, and Arjuna feels like a badass and wan
 #### Thoughts
 After reading three different versions, the only part that caught me as difficult to comprehend was the family tradition talk. It wasn't until I read a new translation by Flood and Martin that it made sense. They are talking about the caste system in India. Everyone in power is part of the highest caste and there is talk that the world will go into ruin if the blood is polluted. As a westerner, it caught me a little offguard. I figure that I'll probably have more of these cultural concerns as I go down this journey, but I have to admit that it was surprising. Reading these books in the context of the history and cultures they were written in will force me to drop some biases and ethnocentrism.
 
-{{< hint warning >}}
-**Personal Takeaway**  
+{{% hint warning %}}
+#### Personal Takeaway  
 One thing that really resonated and was timely about this was the fact that Krishna waited until Arjuna was in a horrible place in his life, and right in the middle of the battle to show him wisdom and tell him about God. If he was all powerful, why did he wait until this moment? There had to have been a better time. It made me think, and perhaps even realize, that maybe the timing was right. Sometimes you need to be in the right state of mind to accept knowledge. Perhaps, I myself wouldn't have gotten this out of the text had I read it earlier in life, when I was younger and had less experiences, so maybe there's a point to me going through this literary journey at this exact point in my life.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Chapter 2
 #### Summary
@@ -69,10 +71,10 @@ The goal here seems to be serenity. He basically is trying to get Arjuna to calm
 #### Thoughts
 This seems very similar to some of the stuff the stocis say, and I'm really interested to follow up with the works of Seneca, Epictetus, and Marus Aurillus later and compare notes to this. I can also see a lot of where modern yoga came out of this book. There's a lot in modern yoga about clearning the mind and avoiding attachments. The stuff on centering yourself and clearing your thoughts is facincating. You can really see how Krisna would be trying to convince him that everything was ok, and he could go ahead and fight.
 
-{{< hint warning >}}
-**Personal Takeaway**  
+{{% hint warning %}}
+#### Personal Takeaway  
 Chapter 2 seems to be the most powerful in the whole book. There are some real interesting topics about the individual and how a person should act and think. It's incredible how more of these are applicable thousands of years later. 
-{{< /hint >}}
+{{% /hint %}}
 
 <!--
 ### Chapter 3

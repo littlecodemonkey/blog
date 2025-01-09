@@ -18,7 +18,7 @@ By Ernest Hemingway
 
 ## Overview
 
-### Summary  
+### Summary
 "The Old Man and the Sea" is one of Ernest Hemingway's most famous works. It was published in 1952, and this 
 year for Christmas my buddy Wayne gifted my a first edition of the Novel. It's a fairly short books, and less than 200 pages. 
 It tells the story of an old man in a Cuban fishing village. This is a story of struggle, and it starts with the fisherman 
@@ -31,11 +31,13 @@ There’s something profoundly human in the way Santiago perseveres, even in the
 to consider how Hemingway uses minimalism to create such depth, often leaving much unsaid. The idea that every victory can be 
 hollow yet still worth pursuing resonates strongly.
 
-### Takeaway
+{{% hint warning %}}
+#### Personal Takeaway  
 In a way, this feels like a story of meritocracy. Where the old man is successful because of his effort and perseverance. Despite his 
 age and bad luck, his determination leads to his success in catching a big fish. It also is a story on how that meritocracy can be influced 
 by external sources, especially related to the sharks. Merit and success are sometimes met with challenges beyond one's control, but as 
 long as you remain diligent you will be successful in honor.
+{{% /hint %}}
 
 ## The Story
 

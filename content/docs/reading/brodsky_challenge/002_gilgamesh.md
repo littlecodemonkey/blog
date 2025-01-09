@@ -19,9 +19,10 @@ This is one of the oldest stories ever known. This is a Sumerian poem about Gilg
 
 There are twelve tablets. This is very significant as its stories parallel later works. A major one is the Bible's story of the flood in Genesis. The story also mirrors the Greek myth where Deucalion and his wife survive a great flood sent by Zeus and repopulate the Earth, although the story of Noah is much closer to Gilgamesh. A flood story predates Gilgamesh, and that's the Mesopotamian Epic myth of Atrahasis. A god tells Atrahasis to build a boat to survive a flood meant to wipe out humanity.
 
-{{< hint warning >}}
-**Personal Takeaway**  
-I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could be referring to wedding rings, or I could be misunderstanding this.{{< /hint >}}
+{{% hint warning %}}
+#### Personal Takeaway  
+I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could be referring to wedding rings, or I could be misunderstanding this.
+{{% /hint %}}
 
 
 

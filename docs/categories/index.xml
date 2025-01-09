@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Journey</title>
-    <link>http://localhost:1313/blog/categories/</link>
+    <link>https://www.1oca1host.com/blog/categories/</link>
     <description>Recent content in Categories on My Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 13:10:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.1oca1host.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Epic of Gilgamesh</title>
-      <link>http://localhost:1313/blog/categories/Epic-of-Gilgamesh/</link>
+      <link>https://www.1oca1host.com/blog/categories/Epic-of-Gilgamesh/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Epic-of-Gilgamesh/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Epic-of-Gilgamesh/</guid>
       <description></description>
     </item>
     <item>
       <title>Ernest Hemingway</title>
-      <link>http://localhost:1313/blog/categories/Ernest-Hemingway/</link>
+      <link>https://www.1oca1host.com/blog/categories/Ernest-Hemingway/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Ernest-Hemingway/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Ernest-Hemingway/</guid>
       <description></description>
     </item>
     <item>
       <title>Sin-Leqi-Unninni</title>
-      <link>http://localhost:1313/blog/categories/Sin-Leqi-Unninni/</link>
+      <link>https://www.1oca1host.com/blog/categories/Sin-Leqi-Unninni/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Sin-Leqi-Unninni/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Sin-Leqi-Unninni/</guid>
       <description></description>
     </item>
     <item>
       <title>The Old Man and the Sea</title>
-      <link>http://localhost:1313/blog/categories/The-Old-Man-and-the-Sea/</link>
+      <link>https://www.1oca1host.com/blog/categories/The-Old-Man-and-the-Sea/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/The-Old-Man-and-the-Sea/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/The-Old-Man-and-the-Sea/</guid>
       <description></description>
     </item>
     <item>
       <title>Bhagavad Gita</title>
-      <link>http://localhost:1313/blog/categories/Bhagavad-Gita/</link>
+      <link>https://www.1oca1host.com/blog/categories/Bhagavad-Gita/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Bhagavad-Gita/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Bhagavad-Gita/</guid>
       <description></description>
     </item>
     <item>
       <title>Vyasa</title>
-      <link>http://localhost:1313/blog/categories/Vyasa/</link>
+      <link>https://www.1oca1host.com/blog/categories/Vyasa/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Vyasa/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Vyasa/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>http://localhost:1313/blog/categories/Cybersecurity/</link>
+      <link>https://www.1oca1host.com/blog/categories/Cybersecurity/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Cybersecurity/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Development, Golang</title>
-      <link>http://localhost:1313/blog/categories/Development-golang/</link>
+      <link>https://www.1oca1host.com/blog/categories/Development-golang/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Development-golang/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Development-golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/blog/categories/Research/</link>
+      <link>https://www.1oca1host.com/blog/categories/Research/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Research/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Research/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/blog/categories/Development/</link>
+      <link>https://www.1oca1host.com/blog/categories/Development/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/Development/</guid>
+      <guid>https://www.1oca1host.com/blog/categories/Development/</guid>
       <description></description>
     </item>
   </channel>

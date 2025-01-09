@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on My Journey</title>
-    <link>http://localhost:1313/blog/tags/Research/</link>
+    <link>https://www.1oca1host.com/blog/tags/Research/</link>
     <description>Recent content in Research on My Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Dec 2021 23:48:12 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/Research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.1oca1host.com/blog/tags/Research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/docs/doing/research/application_security/</link>
+      <link>https://www.1oca1host.com/blog/docs/doing/research/application_security/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/docs/doing/research/application_security/</guid>
+      <guid>https://www.1oca1host.com/blog/docs/doing/research/application_security/</guid>
       <description>&lt;h1 id=&#34;application-security&#34;&gt;&#xA;  Application Security&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-security&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Book I am writing on application security.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Training&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Training Employees&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designing Security Trainings&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Requirements&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software Requirements&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SDLC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Regulation (PCI/HIPPA/SOC/GDPR/CDPA)&lt;/li&gt;&#xA;&lt;li&gt;Prioritization&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identifying Stakeholders&lt;/li&gt;&#xA;&lt;li&gt;Prioritizing Projects with Security Concerns&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Design&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Best Practices for Design&lt;/li&gt;&#xA;&lt;li&gt;Risk Analysis: Application Threat Modeling&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DREAD&lt;/li&gt;&#xA;&lt;li&gt;STRIDE&lt;/li&gt;&#xA;&lt;li&gt;Risk Matrix&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Implementation (Coding)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implementation Guidelines&lt;/li&gt;&#xA;&lt;li&gt;Secure coding practices&lt;/li&gt;&#xA;&lt;li&gt;Code Reviews&lt;/li&gt;&#xA;&lt;li&gt;OWASP Secure Headers Project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Verification (Testing)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Verification Guidelines&lt;/li&gt;&#xA;&lt;li&gt;SAST Testing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SonarQube&lt;/li&gt;&#xA;&lt;li&gt;Bandit&lt;/li&gt;&#xA;&lt;li&gt;Gosec&lt;/li&gt;&#xA;&lt;li&gt;npm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;DAST Testing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Burp&lt;/li&gt;&#xA;&lt;li&gt;OWASP ZAP&lt;/li&gt;&#xA;&lt;li&gt;Nikto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;False Positives&lt;/li&gt;&#xA;&lt;li&gt;Third Party Library Testing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Release&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/docs/doing/research/think_like_an_attacker/</link>
+      <link>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/docs/doing/research/think_like_an_attacker/</guid>
+      <guid>https://www.1oca1host.com/blog/docs/doing/research/think_like_an_attacker/</guid>
       <description>&lt;h1 id=&#34;think-like-an-attacker&#34;&gt;&#xA;  Think Like an Attacker&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#think-like-an-attacker&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Book I am writing on thinking like an attacker.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Refrence to Brodsky challenge&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to think before how to think like an attacker&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Critical thinking skills&lt;/li&gt;&#xA;&lt;li&gt;Problem solving skills&lt;/li&gt;&#xA;&lt;li&gt;Systems&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thinking in Systems&lt;/li&gt;&#xA;&lt;li&gt;Breaking Systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Social engineering&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Game theory&lt;/li&gt;&#xA;&lt;li&gt;Milgram&amp;rsquo;s study on obedience&lt;/li&gt;&#xA;&lt;li&gt;Psychological needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Red team mindset&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
