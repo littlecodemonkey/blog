@@ -21,43 +21,88 @@ There are twelve tablets. This is very significant as its stories parallel later
 
 {{% hint warning %}}
 #### Personal Takeaway  
-I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could be referring to wedding rings, or I could be misunderstanding this.
+I read a few versions of this epic, and one of my favorite was the graphic novel version. The depiction of the
+Humbaba battle is fantastic. The new English translation by Stephen Mitchell was also quite good. It is much more 
+readable than some of the older versions. Reading these first helped me understand the story and made the others more 
+readable after knowing what was going on. Some of the versions are more raw and include more of the sexuality, humor, 
+and tough concepts like Gilgamesh's "first right" to women on their wedding day.
+
+Some of the versions tend to make this more academic, and some of the sexuality and humor is dropped. This was an
+incredible story that passed down through generations.
 {{% /hint %}}
 
 
 
 ## Book Summary
 ### Tablet I: Introduction and Gilgamesh's Rule
-Gilgamesh is described as a demi-god. He's two-thirds god and one-third human. He is strong and massive in size. However, he's very oppressive. One of the rights of the king is called "first rights". First rights are royal privileges, and the right a king has to be the first of anything. The first to resources, the first to food, and the first to fruits of labor. Gilgamesh abused this by claiming the virginity of women on their wedding night. The people of Uruk feel he abused his first rights, but this one is the one they resented the most.
+Gilgamesh is described as a demi-god. He's two-thirds god and one-third human. He is strong and massive in size. 
+However, he's very oppressive. One of the rights of the king is called "first rights". First rights are royal 
+privileges, and the right a king has to be the first of anything. The first to resources, the first to food, and the 
+first to fruits of labor. Gilgamesh abused this by claiming the virginity of women on their wedding night. The people 
+of Uruk feel he abused his first rights, but this one is the one they resented the most.
 
-In response to the people's complaints, the gods created a wild man to confront him. This wild man is named Enkidu. Enkidu ends up being tricked into joining the human world by having sex with a human. The local farmer/hunter hired a prostitute to have sex with Enkidu so that he wouldn't be a wild animal anymore.
+In response to the people's complaints, the gods created a wild man to confront him. This wild man is named Enkidu. 
+Enkidu ends up being tricked into joining the human world by having sex with a human. The local farmer/hunter hired 
+a prostitute to have sex with Enkidu so that he wouldn't be a wild animal anymore.
 
 ### Tablet II: Enkidu's Civilizing and Meeting with Gilgamesh
-Enkidu is a huge man. The temple prostitute (Shamat) seduces Enkidu and brings Enkidu to challenge Gilgamesh. Enkidu stands at the doorway to a chapel to prevent Gilgamesh from claiming first rights to a bride, and they get into a fistfight. Gilgamesh barely wins. However, he grows as a person from the fight and the two become best friends out of mutual respect.
+Enkidu is a huge man. The temple prostitute (Shamat) seduces Enkidu and brings Enkidu to challenge Gilgamesh. Enkidu 
+stands at the doorway to a chapel to prevent Gilgamesh from claiming first rights to a bride, and they get into a 
+fistfight. Gilgamesh barely wins. However, he grows as a person from the fight and the two become best friends out 
+of mutual respect.
+
+### Tablet III: The Quest for Cedarwood
+Gilgamesh, seeking fame, proposes a dangerous expedition to the Cedar Forest to confront its guardian, Humbaba.
+Enkidu and the elders of Uruk initially warn against it, but Gilgamesh insists. It's interesting that Enkidu 
+already knew of the dangers of the forest, and I'm not sure where he would have learned of this, but he suddenly 
+had knowledge of it. This was probably to make the story more suspenseful and make it sound more dangerous.
+Not a lot really happens in this tablet.
+
+### Tablet IV: Journey to the Cedar Forest
+Gilgamesh and Enkidu travel to the Cedar Forest. Along the way, Gilgamesh experiences troubling dreams that Enkidu 
+interprets as favorable omens. There are a lot of dreams in the Epic of Gilgamesh. This is no different. This is a 
+main reason why I think tablet XII (12) fits in as a dream sequence.
+
+### Tablet V: The Battle with Humbaba
+The two men confront and defeat Humbaba with divine assistance. They earn a tony of glory from this. Humbaba asks
+for mercy, but Gilgamesh does not spare him. It's interesting that Humbaba pleads for his life, and Gilgamesh feels like 
+the bad guy at a point. The monster is clearly intelligent and speaks language. It feels a little like murder at the 
+end. Perhaps this just didn't age well. 
+
+### Tablet VI: The Bull of Heaven and Ishtar's Rejection
+This is hilarious. The goddess Ishtar really goes after Gilgamesh. She's tries really hard to romantically get involved 
+with him. Gilgamesh then rejects her harshly. He brings up her past lovers and mocks her. She gets very angry and sends 
+the Bull of Heaven to punish him. Gilgamesh and Enkidu slay the bull. This book is meant to be quite funny and there is
+a lot of entertainment here. I can imagine this story being told around Summarian campfires.
+
+### Tablet VII: The Death of Enkidu
+The gods decide Enkidu must die as punishment for killing Humbaba and the Bull of Heaven. Enkidu falls ill and curses 
+the events that led him to civilization but ultimately accepts his fate and dies. There is some foreshaddowing here
+as Enkidu goes a little crazy he starts talking nonsense, but there is some foreshadowing to Utnapishtim here.
+
+I had always understood that wedding rings were first associated with the Romans or with the "rings of love" from the 
+Egyptians, who are sometimes credited with exchanging rings as symbols of love. However, while reading the Epic of 
+Gilgamesh, I came across a passage in Tablet VIII that states, "of the wife place a ring on you, mourn you." This could 
+be referring to wedding rings, or I could be misunderstanding this.
+
+### Tablet VIII: Mourning Enkidu
+Gilgamesh mourns deeply for his friend. He ends up building a monument for him as well. This shows the friendship 
+between the two being one of intense emotion. Ancient Mesopotamian literature often blurred lines between intense 
+friendship and romantic love. The texts talk about an intense emotional and physical relationship 
+between the two. It reminds me of the relationship between David and Jonathon in the Old Testament. There are more 
+undertones of a possible physical closeness between Gilgamesh and Enkidu than between David and Jonathon. It's 
+possible that either or both couples were gay, or maybe neither was. Intense friendships between men were a common thing 
+in the past. 
+
+David declares that Jonathan’s love was "wonderful, surpassing the love of women" (2 Samuel 1:26). I'm not really sure 
+culturally what he means by that as I'm not as familiar with ancient Near Eastern culture, but in a more modern
+lens it does read as a highly emotional bond. I'll unpack this more as I re-read the Old Testament.
+
+
+
 
 
 ## To Finish
-### Tablet III: The Quest for Cedarwood
-Gilgamesh, seeking fame, proposes a dangerous expedition to the Cedar Forest to confront its guardian, Humbaba.
-Enkidu and the elders of Uruk initially warn against it, but Gilgamesh insists.
-
-### Tablet IV: Journey to the Cedar Forest
-Gilgamesh and Enkidu travel to the Cedar Forest. Along the way, Gilgamesh experiences troubling dreams that Enkidu interprets as favorable omens.
-
-### Tablet V: The Battle with Humbaba
-The duo confront and defeat Humbaba with divine assistance, earning glory.
-Gilgamesh spares no mercy for Humbaba, who pleads for his life.
-
-### Tablet VI: The Bull of Heaven and Ishtar's Rejection
-Gilgamesh rejects the goddess Ishtar's romantic advances, mocking her for her past lovers.
-Angered, Ishtar sends the Bull of Heaven to punish him, but Gilgamesh and Enkidu slay the bull.
-
-### Tablet VII: The Death of Enkidu
-The gods decide Enkidu must die as punishment for killing Humbaba and the Bull of Heaven.
-Enkidu falls ill and curses the events that led him to civilization but ultimately accepts his fate and dies.
-
-### Tablet VIII: Mourning Enkidu
-Gilgamesh mourns deeply for his friend, building a monument and lamenting the loss.
 
 ### Tablet IX: The Quest for Immortality
 Stricken by the fear of death, Gilgamesh sets out to find Utnapishtim, a man granted immortality by the gods.
