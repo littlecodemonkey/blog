@@ -4,7 +4,9 @@ title: "Brodsky Challenge"
 ---
 
 # Introduction
-
+{{ range .Pages }}
+  - [{{ .Title }}]({{ .Permalink }})
+{{ end }}
 ## Joseph Brodsky List of 83 Books
 1.   Bhagavad Gita
 2.   Mahabharata
