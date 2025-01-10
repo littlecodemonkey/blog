@@ -29,6 +29,16 @@ and tough concepts like Gilgamesh's "first right" to women on their wedding day.
 
 Some of the versions tend to make this more academic, and some of the sexuality and humor is dropped. This was an
 incredible story that passed down through generations.
+
+Utnapishtim is brought in as if the reader/listener already knows who he is. It's as if he's the main charater in the 
+previous epic that's brought in for a cameo appearance. After researching more about this, he mentions that while he was a 
+king his name was "Atra-Hasis", which basically translates to "Exceedingly/Extraordinarily Wise". This was the main 
+character in the previous epic Atrahasis. In this Atra-Hasis is chosen by the god Enki (Ea) as well, to build an ark as 
+well, to survive the flood. It's very clear the reader is supposed to know him as the main character from this other 
+epic. Atrahasis is a much older epic and Utnapishtim is a very old man in the Epic of Gilgamesh.
+
+The epic of Atrahasis that I found (a translation by Stephanie Dalley) was only about 30 pages and quite an easy read. 
+It was not part of the Brodsky challenge, but well worth the read to figure out similarities here.
 {{% /hint %}}
 
 
