@@ -1,8 +1,10 @@
 # Books in the Old Testament
-These books span several religions are are interesting to read for sure.
+These books span several religions are are interesting to read for sure. The Jewish, Islamic, and Christian faiths all 
+have some ties to the Old Testament. This is possibly the most influential book in all of human history. Any journey of 
+intellectualism would be incomplete without a review of this content.
 
 ## Books in the Christian Old Testament
-These books are included in the Protestant, Catholic, and Eastern Orthodox canons.
+These are the books that are included in the Protestant, Catholic, and Eastern Orthodox canons.
 
 ### The Pentateuch (The Law)
 - 001 - **Genesis**  
@@ -70,7 +72,7 @@ These are books accepted in the Roman Catholic and Eastern Orthodox Bibles, but 
   - 048c - **Bel and the Dragon**  
 
 ## Eastern Orthodox Additional Books
-Books recognized by the Eastern Orthodox Church but not in the Catholic or Protestant Bibles.
+The below are books recognized by the Eastern Orthodox Church but not in the Catholic or Protestant Bibles.
 
 - 049 - **1 Esdras**  
 - 050 - **2 Esdras** (Apocalypse of Ezra)  
@@ -79,7 +81,7 @@ Books recognized by the Eastern Orthodox Church but not in the Catholic or Prote
 
 
 ## Books in the Hebrew Bible (Tanakh)
-The Jewish canon is organized differently from the Christian Old Testament. Also the Masoretic Text does have some 
+The Jewish canon is organized differently from the Christian Old Testament. Also the Masoretic (Jewish) Text does have some 
 wording, order, and emphasis differences from the Greek translation in the Christian bible (Septuagint). Honestly, it's 
 broken up a little better and a little more understandable to read in the Greek (Christian) version.
 
@@ -141,3 +143,24 @@ God. There might be other changes, but I probably missed them as I'm not really 
 - 016 - **Ezra-Nehemiah**  (Considered as one book)  *(Duplicate in Christian Old Testament)*  
 - 013 - **1 Chronicles**  *(Duplicate in Christian Old Testament)*  
 - 014 - **2 Chronicles**  *(Duplicate in Christian Old Testament)*  
+
+
+## Books in Islam
+Islam does not directly adopt the Old Testament but acknowledges certain scriptures and stories within it, often 
+through the lens of the Quran. Islam sees the Quran as the final and uncorrupted revelation, superseding the Torah, 
+Psalms, and other previous scriptures. Stories and teachings from the Old Testament are often retold in the Quran with 
+theological differences. As a result I don't really go through this too deeply. However, it important to recognise 
+that this relationship exists.
+
+- Recognized Scriptures
+  - Tawrah (Torah): Given to Musa (Moses) and acknowledged as divine guidance.
+  - Zabur (Psalms): Given to Dawud (David) as hymns of praise.
+- Recognized Prophets and Figures (Shared with Old Testament)
+  - Adam and Eve: The creation story and fall.
+  - Nuh (Noah): The flood narrative.
+  - Ibrahim (Abraham): The patriarch of monotheism.
+  - Yusuf (Joseph): His trials in Egypt.
+  - Musa (Moses): His role in leading the Israelites out of Egypt.
+  - Dawud (David) and Sulaiman (Solomon): Kings and prophets.
+  - Ayyub (Job): A model of patience.
+  - Yunus (Jonah): His story with the whale.

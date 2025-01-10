@@ -6,15 +6,15 @@ title: "Brodsky Challenge"
 # Introduction
 
 ## Joseph Brodsky List of 83 Books
-1.   [X] Bhagavad Gita
-2.   [ ] Mahabharata
-3.   [X] Gilgamesh
-4.   [ ] The Old Testament
-5.   [ ] Homer: Iliad, Odyssey
-6.   [ ] Herodotus: Histories
-7.   [ ] Sophocles: Plays
-8.   [ ] Aeschylus: Plays
-9.   [ ] Euripides: Plays (Hippolytus, The Bachantes, Electra, The Phoenician Women)
+1. [X] Bhagavad Gita
+2. [ ] Mahabharata
+3. [X] Gilgamesh
+4. [ ] The Old Testament
+5. [ ] Homer: Iliad, Odyssey
+6. [ ] Herodotus: Histories
+7. [ ] Sophocles: Plays
+8. [ ] Aeschylus: Plays
+9. [ ] Euripides: Plays (Hippolytus, The Bachantes, Electra, The Phoenician Women)
 10. [ ] Thucydides: The Peloponnesian War
 11. [ ] Plato: Dialogues
 12. [ ] Aristotle: Poetics, Physics, Ethics, De Anima
