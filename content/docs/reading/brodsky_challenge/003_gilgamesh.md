@@ -1,6 +1,6 @@
 ---
 description : "The Epic of Gilgamesh"
-date : "2025-01-08"
+date : "2025-01-10"
 tags : [
     "spirituality",
 ]
@@ -30,7 +30,6 @@ and tough concepts like Gilgamesh's "first right" to women on their wedding day.
 Some of the versions tend to make this more academic, and some of the sexuality and humor is dropped. This was an
 incredible story that passed down through generations.
 {{% /hint %}}
-
 
 
 ## Book Summary
@@ -66,7 +65,7 @@ main reason why I think tablet XII (12) fits in as a dream sequence.
 ### Tablet V: The Battle with Humbaba
 The two men confront and defeat Humbaba with divine assistance. They earn a tony of glory from this. Humbaba asks
 for mercy, but Gilgamesh does not spare him. It's interesting that Humbaba pleads for his life, and Gilgamesh feels like 
-the bad guy at a point. The monster is clearly intelligent and speaks language. It feels a little like murder at the 
+the bad guy at a point. The monster (ogre) is clearly intelligent and speaks language. It feels a little like murder at the 
 end. Perhaps this just didn't age well. 
 
 ### Tablet VI: The Bull of Heaven and Ishtar's Rejection
@@ -98,26 +97,28 @@ David declares that Jonathan’s love was "wonderful, surpassing the love of wom
 culturally what he means by that as I'm not as familiar with ancient Near Eastern culture, but in a more modern
 lens it does read as a highly emotional bond. I'll unpack this more as I re-read the Old Testament.
 
-
-
-
-
-## To Finish
-
 ### Tablet IX: The Quest for Immortality
-Stricken by the fear of death, Gilgamesh sets out to find Utnapishtim, a man granted immortality by the gods.
-He journeys through perilous landscapes in his search for eternal life.
+Gilgamesh now fears death after the death of Enkidu. He set's out on a quest for immortality. He looks to find the only 
+one he know of that has lived forever. This is the Mesopotanian version of Noah called Utnapistim. He was granted 
+imortality by the gods. There are these half men half scorpians that he meets, that end up being helpful rather than 
+evil. Gilgamesh then spends 10 hours traveling through pitch darkness to arrive in another place.
 
 ### Tablet X: Meeting with Siduri and the Boatman
-Gilgamesh encounters Siduri, a tavern keeper, who advises him to accept mortality.
-He meets Urshanabi, the ferryman, who helps him cross the waters of death to reach Utnapishtim.
+Gilgamesh encounters Siduri, a tavern keeper, who advises him to accept mortality. She is quite kind and Gilgamesh 
+might be better off to just live his days out with her. He moves on howevers, and meets Urshanabi, the ferryman, who 
+helps him cross the waters of death to reach Utnapishtim.
 
 ### Tablet XI: Utnapishtim's Story and the Secret of Immortality
-Utnapishtim recounts the story of a great flood and how he and his wife were granted immortality by the gods.
-Utnapishtim challenges Gilgamesh to stay awake for seven days as a test, which he fails.
-Utnapishtim tells him about a plant that can restore youth, but a snake steals it.
-Gilgamesh returns to Uruk, accepting his mortality and taking pride in his legacy.
+Utnapishtim recounts the story of a great flood and how he and his wife were granted immortality by the gods. 
+Utnapishtim then challenges Gilgamesh to stay awake for seven days as a test, which he fails. Gilgamesh sleeps for all 
+seven days, and Utnapishtim sets out bread that molds in various ways to prove he'd been asleep the whole time.
+Gilgamesh leaves, but as a gift for coming so far Utnapishtim tells him about a plant at the bottom of the water 
+that can restore youth. Gilgamesh finds it, but then a snake steals it. (This feels very biblical too.) Gilgamesh 
+immediatly gives up and returns to Uruk. The story is attempting to show he is accepting his mortality and taking pride
+in his legacy, but it just feels as he's giving up.
 
 ### Tablet XII (Appendix, not always included): Enkidu's Spirit
 A later addition, possibly unrelated to the main story, describing a conversation between Gilgamesh and Enkidu's spirit.
-
+In this Gilgamesh asks a lot of questions about how the dead are doing and Enkidu describes them. I like to read this 
+as if Gilgamesh is in a dream sequence as it makes more sense this way. Also there are a lot of dreams in this 
+story so it makes sense. 

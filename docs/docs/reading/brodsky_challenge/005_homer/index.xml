@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Journey</title>
+    <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/</link>
+    <description>Recent content on My Journey</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/005a_iliad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/005a_iliad/</guid>
+      <description>&lt;h1 id=&#34;the-iliad&#34;&gt;&#xA;  The Iliad&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-iliad&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Homer&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/005b_odyssey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.1oca1host.com/blog/docs/reading/brodsky_challenge/005_homer/005b_odyssey/</guid>
+      <description>&lt;h1 id=&#34;the-odyssey&#34;&gt;&#xA;  The Odyssey&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-odyssey&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By Homer&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
