@@ -131,13 +131,43 @@ and how a person should act and think. It's incredible how more of these are app
 
 ### Chapter 3
 #### Summary
-Chapter three is the Yoga of Action. Lorem ipsum
+Chapter three is the Yoga of Action. Arjun ask at the beginning to Krishna, if you consider knowledge superior to action
+then why do you ask me to wage this terrible war? At this point Arjun is still trying to get out of fighting the war.
+
+Krishna explains there are two paths to Yoga.  Te path of knowledge, for those inclined toward contemplation, and the 
+path of work for those inclined toward action. He mentions that one cannot obtain freedom from karmic reactions from 
+merely not acting, nor can one attain perfect knowledge by mere physical renunciation. Basically what he is saying here
+is that action is something you can't avoid. Even maintain the body requires action of some sort.
+
+There's a concept here called Nishkama Karma introduced as well. Basically this is performing actions without an 
+attachment to the results. It promotes selfless action. There is a mention that if you're a good person just to get 
+into heaven, then you probably won't get into heaven. You have to be a good person without any expectations. You are
+entitled to your work, but don't feel entitled to the fruits of your labor. You should see the work you do as a 
+service to society. Chapter 3, Verse 19 sums this up... "Therefore, without attachment, do your duty, because by 
+working without attachment, one attains the Supreme."
+
+The main obstacles to spiritual progress are listed as desire (Kama) and anger (Krodha). Krishna advises to master 
+these through self-discipline and self awareness.
+
+
 #### Thoughts
-Lorem ipsum
+There's a lot to unpack here. The main thing is that you shouldn't do things for the outcome of those things. You
+should be doing things because you feel this is the best way to live. 
+
+This reminds me of the book "No More Mr. Nice Guy" by Dr. Robert Glover. I read this book right after my divorce and 
+it was very inciteful. He states that "nicy guys" often act out of covert contracts. An idea of "if I do this, someone
+else with do this". They expect approval, validation, or some form of reciprocation in return. There's a thought here 
+to take responsibility for ones one actions and live authentically, rather than seeking external validation. This very 
+much aligns with the advice in the Gita to act without an attachment to the results. Instead the person should be 
+focusing on doing what's right.
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+Krishna also talks about performing one's individual duty (Swa-Dharma) rather than trying to mimic others. No More Mr.
+Nice Guy mentions that "nice guys" often neglect their own needs to fit into other's expectations of them, or societal 
+molds. The book talks about finding and following your own true purpose instead of seeking approval or avoiding 
+conflict. I'm not certain if Dr. Glover read the Gita, but there are many parallels between his book and this chapter 
+of the Gita.
 {{< /hint >}}
 
 <!--
