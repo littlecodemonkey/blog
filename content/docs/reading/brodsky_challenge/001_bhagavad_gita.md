@@ -289,11 +289,53 @@ of wisdom.
 ## Part 3 (Chapter 13-18)
 ### Chapter 13-18
 #### Summary
-Lorem ipsum
+Krishna explains the difference between the physical body and the true self. The body is temporary, shaped by the three 
+gunas, but the soul, or atman, is eternal and beyond material nature. He introduces prakriti, or the changing physical 
+world, and purusha, the unchanging self. Understanding this difference frees a person from illusion.
+
+He expands on the gunas and how they shape human nature. Sattva is clarity and wisdom. Rajas is ambition and 
+restlessness. Tamas is ignorance and laziness. People are always influenced by these forces, but awareness allows them 
+to rise above.
+
+In Chapter 15, Krishna describes the Tree of Life, an upside-down tree with roots in the heavens and branches in the 
+world. The branches represent attachment to material life, trapping people in illusion. Cutting through this tree with 
+wisdom leads to liberation. Chapter 16 draws a sharp contrast between divine and demonic qualities. Humility, truth, 
+and self-control lead to freedom, while arrogance, greed, and selfishness trap people in suffering. Krishna makes it 
+clear that no one is doomed, but people must choose their path.
+
+Chapter 17 connects faith, food, and lifestyle to spiritual growth. Sattvic faith is selfless and pure. Rajasic faith 
+is based on personal gain. Tamasic faith is ignorant and harmful. The same applies to food, speech, and daily habits. 
+The final chapter ties everything together. Krishna explains Svadharma, the idea that everyone has a personal duty 
+based on their nature. True renunciation is not abandoning action but letting go of attachment to rewards. The Gita 
+ends with Krishna telling Arjuna to surrender completely and trust him. Arjuna, finally free from doubt, is ready to 
+fight.
+
 #### Thoughts
-Lorem ipsum
+These last chapters drive home Krishna’s core message. The gunas explain why people struggle with their nature, but 
+they also show that growth is possible. The Tree of Life metaphor really stood out. It immediately reminded me of the 
+Celtic World Tree, which also connects the heavens, earth, and underworld. In both traditions, the tree represents the 
+cycle of life, but Krishna takes it a step further. He says that the material world is upside down, an illusion, and 
+that wisdom cuts through it. That idea aligns with other ancient traditions where the physical world is seen as a veil 
+over a deeper truth. The Norse Yggdrasil also comes to mind, where the tree holds everything together, but its branches 
+are constantly changing and affected by fate.
+
+Krishna’s breakdown of divine and demonic traits in Chapter 16 was interesting because it is not about inherent good 
+or evil. People shape their destiny through their choices. The part about faith, food, and lifestyle in Chapter 17 
+also stood out. It is a reminder that spiritual growth is not just about big revelations. Small, everyday habits shape 
+who you become. The last chapter brings it all home. Krishna keeps saying that action itself isn’t the problem, 
+attachment is. That is the final lesson. Let go of control, do your duty, and move forward without fear.
+
 
 {{% hint warning %}}
 **Personal Takeaway**  
-Lorem ipsum
+The Tree of Life metaphor hit the hardest. The idea of the material world as a tangled illusion feels familiar from 
+different traditions, but Krishna’s solution is simple. Instead of worshipping the tree or fearing it, cut through it 
+and see what is real. That applies to everything. People get stuck chasing success, comfort, and validation, but none 
+of it lasts. The challenge is learning to act without getting lost in the branches.
+
+The gunas also made me think about how daily habits shape reality. It is not just about deep philosophy. The things 
+people do, the food they eat, and the way they think all reinforce a path. Recognizing that helps with self-awareness. 
+The ending of the Gita is a solid reminder that knowledge is useless if it does not lead to action. Arjuna spends the 
+entire book questioning, but in the end, he has to make a choice. That is the real takeaway. You can stay stuck in 
+doubt or you can trust, act, and move forward.
 {{% /hint %}}
