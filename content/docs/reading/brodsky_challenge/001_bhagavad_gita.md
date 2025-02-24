@@ -170,108 +170,123 @@ conflict. I'm not certain if Dr. Glover read the Gita, but there are many parall
 of the Gita.
 {{< /hint >}}
 
-<!--
+
 ### Chapter 4
 #### Summary
-Lorem ipsum
+Krishna shifts from talking about action to knowledge, revealing that the wisdom he’s sharing is ancient but was lost 
+over time. Then he drops the big reveal; he’s God in human form, here to restore Dharma. He tells Arjuna that whenever 
+righteousness declines, he manifests to set things right, protect the good, and destroy evil. This introduces Jnana 
+Karma Sanyasa, the idea that true renunciation isn’t about avoiding action but acting with knowledge and detachment. 
+He expands on sacrifice (yajna) beyond traditional rituals, explaining that real sacrifice includes giving up ego, 
+desires, and even attachment to knowledge itself. The key takeaway: if Arjuna surrenders to divine wisdom, he’ll be 
+free from past karma and can move forward without fear.
+
 #### Thoughts
-Lorem ipsum
+Krishna takes things up a notch here, shifting from philosophy to straight-up divine authority. He’s not just giving 
+advice anymore. He’s saying, I’m God, trust me. The idea that God shows up to restore balance when things go off the 
+rails has a mythological feel, reminding me of similar themes in other religions. The part about sacrificing knowledge 
+is unexpected—Krishna has been preaching wisdom, and now he’s saying not to cling to it too tightly. That tracks with 
+the Zen “beginner’s mind” idea—true wisdom comes from letting go of rigid thinking. Also, the surrender to divine will 
+here feels like an early version of Bhakti (devotion), similar to Christian ideas of grace—trusting in something higher 
+wipes away past mistakes.
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+This chapter refines the previous message: act with knowledge, but don’t get attached to outcomes. The deeper idea on 
+sacrifice also hit me. People give up time, money, and energy all the time, but Krishna is talking about giving up ego 
+and the need for control. That’s real freedom. Also, his message about past mistakes is powerful. You’re not bound by 
+who you used to be, you can start fresh. This makes me want to explore more on Bhakti philosophy and also compare it 
+to Stoicism, especially Epictetus, who emphasizes controlling what’s in your power and surrendering the rest.
 {{< /hint >}}
 
 ### Chapter 5
 #### Summary
-Lorem ipsum
+Arjuna is still unsure whether renouncing action or acting without attachment is the better path. Krishna tells him 
+that both lead to the same goal, but acting without attachment is superior because it is more practical. True 
+renunciation isn’t about avoiding responsibilities but about performing one’s duty without selfish motives. A person 
+who works while surrendering the results is truly free. Krishna explains that a wise person sees no real difference 
+between success and failure, pleasure and pain, or even friend and enemy. Those who master this mindset attain inner 
+peace and unity with the divine.
+
 #### Thoughts
-Lorem ipsum
+This chapter makes it clear that renunciation is not about inaction but about mindset. Krishna shows that enlightenment 
+isn’t found by withdrawing from the world but by fully engaging in it without attachment. That reminds me of Stoicism, 
+especially Marcus Aurelius, who emphasizes doing one’s duty without concern for rewards or recognition. The idea that a 
+wise person treats all experiences equally is tough to grasp but makes sense if the goal is inner peace. If you are not 
+constantly chasing pleasure or avoiding discomfort, you remain steady no matter what happens.
+
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+The biggest lesson here is that peace comes from letting go of control, not from avoiding responsibility. This applies 
+to everything whether work, relationships, or personal goals. Focusing on effort rather than results keeps you from 
+getting caught up in disappointment and frustration. This connects to modern ideas about mindfulness and flow, where 
+success comes from being fully present in the process. Krishna keeps repeating this message, and I see why. It is 
+simple but one of the hardest things to actually live by.
 {{< /hint >}}
 
 ### Chapter 6
 #### Summary
-Lorem ipsum
+Krishna shifts focus to meditation as the key to self-mastery. He explains that the true yogi is not someone who simply 
+renounces the world but someone who balances action and detachment. A real yogi neither avoids responsibility nor 
+becomes obsessed with results. Instead, they stay steady in all situations, free from attachment and ego. He describes 
+meditation as the ultimate path to self-realization, where the mind is disciplined and focused only on the divine. The 
+best meditator is one who sees all beings as equal and recognizes the presence of the divine in everyone. Krishna ends 
+by declaring that of all yogis, those who surrender to him with devotion are the highest.
+
 #### Thoughts
-Lorem ipsum
+This chapter brings everything together. Krishna has been telling Arjuna to act without attachment, but now he’s 
+explaining how to do it—through meditation. The way he describes it makes it clear that meditation isn’t just about 
+sitting in silence but about training the mind to stay calm and focused. This connects to a lot of modern mindfulness 
+and Stoic ideas. Marcus Aurelius talks about keeping the mind steady no matter what happens, which is exactly what 
+Krishna is saying. The idea that the best yogi sees everyone as equal also stands out. It reinforces that detachment 
+doesn’t mean indifference. It means seeing things clearly and acting with compassion instead of impulse.
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+Krishna’s message about balance really resonates. It’s not about extreme renunciation or blind ambition but about 
+being steady no matter what life throws at you. Meditation isn’t just about closing your eyes and breathing; it’s 
+about building the mental strength to stay centered in the middle of chaos. That applies to everything. work, 
+relationships, even personal struggles. Krishna keeps pushing the idea that the highest path isn’t just knowledge or 
+action but a combination of both, grounded in discipline and focus. It’s easy to see why meditation has become such a 
+central part of so many spiritual traditions.
 {{< /hint >}}
 
 ## Part 2 (Chapter 7-12)
-### Chapter 7
+### Chapter 7-12
 #### Summary
-Lorem ipsum
+Krishna moves from self-discipline and meditation to bhakti, or devotion. He explains that everything in existence, 
+both material and spiritual, comes from him. Some people seek him for selfish reasons, while others seek him with 
+wisdom and love. He introduces the three gunas—sattva (goodness), rajas (passion), and tamas (ignorance)—which shape 
+human behavior. Those who transcend these qualities through devotion achieve liberation.
+
+Krishna describes himself as the ultimate reality behind all things. He is time, creation, destruction, and the source 
+of all wisdom. In Chapter 10, he lists the ways he manifests in the world, from the Himalayas to the power of speech. 
+In Chapter 11, he grants Arjuna divine vision, revealing his Vishvarupa, a terrifying and infinite universal form. 
+Arjuna sees entire worlds created and destroyed in an instant. Overwhelmed, he realizes Krishna is beyond a mere 
+teacher or warrior. Krishna reassures him that those who surrender with pure devotion are always protected. In Chapter 
+12, he clarifies that knowledge and meditation are valuable, but the simplest and most direct path to liberation is 
+love and devotion.
+
 #### Thoughts
-Lorem ipsum
+This section shifts from philosophy to an overwhelming display of divine power. Krishna’s universal form is beyond 
+human comprehension, showing that reality is both beautiful and destructive. It reminds me of other traditions where 
+encounters with the divine leave people in awe, like Moses seeing God or Buddhist teachings on impermanence. The three 
+gunas are fascinating because they explain why people act the way they do and how their inner qualities affect 
+spiritual growth. Krishna’s final message is clear. Knowledge and discipline are important, but pure devotion is even 
+greater.
+
 
 {{< hint warning >}}
 **Personal Takeaway**  
-Lorem ipsum
+The idea that devotion surpasses knowledge is unexpected but makes sense. At some point, reason and logic can only 
+take you so far. Krishna is saying that true peace comes from letting go and trusting something beyond yourself. The 
+universal form also puts things into perspective. Human concerns feel small compared to the vastness of reality. This 
+chapter reinforces the idea that surrendering to something bigger than yourself is not weakness, but the highest form 
+of wisdom.
 {{< /hint >}}
 
-### Chapter 8
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{< hint warning >}}
-**Personal Takeaway**  
-Lorem ipsum
-{{< /hint >}}
-
-### Chapter 9
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{< hint warning >}}
-**Personal Takeaway**  
-Lorem ipsum
-{{< /hint >}}
-
-### Chapter 10
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{< hint warning >}}
-**Personal Takeaway**  
-Lorem ipsum
-{{< /hint >}}
-
-### Chapter 11
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{< hint warning >}}
-**Personal Takeaway**  
-Lorem ipsum
-{{< /hint >}}
-
-### Chapter 12
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{< hint warning >}}
-**Personal Takeaway**  
-Lorem ipsum
-{{< /hint >}}
-
-
+<!--
 ## Part 3 (Chapter 13-18)
 ### Chapter 13
 #### Summary
