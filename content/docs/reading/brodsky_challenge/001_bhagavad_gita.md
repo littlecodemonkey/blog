@@ -162,7 +162,7 @@ much aligns with the advice in the Gita to act without an attachment to the resu
 focusing on doing what's right.
 
 {{< hint warning >}}
-**Personal Takeaway**  
+#### Personal Takeaway
 Krishna also talks about performing one's individual duty (Swa-Dharma) rather than trying to mimic others. No More Mr.
 Nice Guy mentions that "nice guys" often neglect their own needs to fit into other's expectations of them, or societal 
 molds. The book talks about finding and following your own true purpose instead of seeking approval or avoiding 
@@ -191,7 +191,7 @@ here feels like an early version of Bhakti (devotion), similar to Christian idea
 wipes away past mistakes.
 
 {{< hint warning >}}
-**Personal Takeaway**  
+#### Personal Takeaway  
 This chapter refines the previous message: act with knowledge, but don’t get attached to outcomes. The deeper idea on 
 sacrifice also hit me. People give up time, money, and energy all the time, but Krishna is talking about giving up ego 
 and the need for control. That’s real freedom. Also, his message about past mistakes is powerful. You’re not bound by 
@@ -217,7 +217,7 @@ constantly chasing pleasure or avoiding discomfort, you remain steady no matter 
 
 
 {{< hint warning >}}
-**Personal Takeaway**  
+#### Personal Takeaway  
 The biggest lesson here is that peace comes from letting go of control, not from avoiding responsibility. This applies 
 to everything whether work, relationships, or personal goals. Focusing on effort rather than results keeps you from 
 getting caught up in disappointment and frustration. This connects to modern ideas about mindfulness and flow, where 
@@ -243,7 +243,7 @@ Krishna is saying. The idea that the best yogi sees everyone as equal also stand
 doesn’t mean indifference. It means seeing things clearly and acting with compassion instead of impulse.
 
 {{< hint warning >}}
-**Personal Takeaway**  
+#### Personal Takeaway  
 Krishna’s message about balance really resonates. It’s not about extreme renunciation or blind ambition but about 
 being steady no matter what life throws at you. Meditation isn’t just about closing your eyes and breathing; it’s 
 about building the mental strength to stay centered in the middle of chaos. That applies to everything. work, 
@@ -278,7 +278,7 @@ greater.
 
 
 {{< hint warning >}}
-**Personal Takeaway**  
+#### Personal Takeaway  
 The idea that devotion surpasses knowledge is unexpected but makes sense. At some point, reason and logic can only 
 take you so far. Krishna is saying that true peace comes from letting go and trusting something beyond yourself. The 
 universal form also puts things into perspective. Human concerns feel small compared to the vastness of reality. This 
