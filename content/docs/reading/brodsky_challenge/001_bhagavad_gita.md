@@ -257,7 +257,7 @@ central part of so many spiritual traditions.
 #### Summary
 Krishna moves from self-discipline and meditation to bhakti, or devotion. He explains that everything in existence, 
 both material and spiritual, comes from him. Some people seek him for selfish reasons, while others seek him with 
-wisdom and love. He introduces the three gunas—sattva (goodness), rajas (passion), and tamas (ignorance)—which shape 
+wisdom and love. He introduces the three gunas-sattva (goodness), rajas (passion), and tamas (ignorance). These shape 
 human behavior. Those who transcend these qualities through devotion achieve liberation.
 
 Krishna describes himself as the ultimate reality behind all things. He is time, creation, destruction, and the source 
