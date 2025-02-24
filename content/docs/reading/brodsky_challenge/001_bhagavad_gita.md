@@ -236,7 +236,7 @@ by declaring that of all yogis, those who surrender to him with devotion are the
 
 #### Thoughts
 This chapter brings everything together. Krishna has been telling Arjuna to act without attachment, but now he’s 
-explaining how to do it—through meditation. The way he describes it makes it clear that meditation isn’t just about 
+explaining how to do it through meditation. The way he describes it makes it clear that meditation isn’t just about 
 sitting in silence but about training the mind to stay calm and focused. This connects to a lot of modern mindfulness 
 and Stoic ideas. Marcus Aurelius talks about keeping the mind steady no matter what happens, which is exactly what 
 Krishna is saying. The idea that the best yogi sees everyone as equal also stands out. It reinforces that detachment 
