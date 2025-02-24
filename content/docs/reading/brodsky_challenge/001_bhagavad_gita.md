@@ -185,9 +185,9 @@ free from past karma and can move forward without fear.
 Krishna takes things up a notch here, shifting from philosophy to straight-up divine authority. He’s not just giving 
 advice anymore. He’s saying, I’m God, trust me. The idea that God shows up to restore balance when things go off the 
 rails has a mythological feel, reminding me of similar themes in other religions. The part about sacrificing knowledge 
-is unexpected—Krishna has been preaching wisdom, and now he’s saying not to cling to it too tightly. That tracks with 
-the Zen “beginner’s mind” idea—true wisdom comes from letting go of rigid thinking. Also, the surrender to divine will 
-here feels like an early version of Bhakti (devotion), similar to Christian ideas of grace—trusting in something higher 
+is unexpected. Krishna has been preaching wisdom, and now he’s saying not to cling to it too tightly. That tracks with 
+the Zen “beginner’s mind” idea. True wisdom comes from letting go of rigid thinking. Also, the surrender to divine will 
+here feels like an early version of Bhakti (devotion), similar to Christian ideas of grace. Trusting in something higher 
 wipes away past mistakes.
 
 {{% hint warning %}}
