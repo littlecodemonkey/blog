@@ -286,9 +286,8 @@ chapter reinforces the idea that surrendering to something bigger than yourself 
 of wisdom.
 {{% /hint %}}
 
-<!--
 ## Part 3 (Chapter 13-18)
-### Chapter 13
+### Chapter 13-18
 #### Summary
 Lorem ipsum
 #### Thoughts
@@ -298,58 +297,3 @@ Lorem ipsum
 **Personal Takeaway**  
 Lorem ipsum
 {{% /hint %}}
-### Chapter 14
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{% hint warning %}}
-**Personal Takeaway**  
-Lorem ipsum
-{{% /hint %}}
-
-### Chapter 15
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{% hint warning %}}
-**Personal Takeaway**  
-Lorem ipsum
-{{% /hint %}}
-
-### Chapter 16
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{% hint warning %}}
-**Personal Takeaway**  
-Lorem ipsum
-{{% /hint %}}
-
-### Chapter 17
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{% hint warning %}}
-**Personal Takeaway**  
-Lorem ipsum
-{{% /hint %}}
-
-### Chapter 18
-#### Summary
-Lorem ipsum
-#### Thoughts
-Lorem ipsum
-
-{{% hint warning %}}
-**Personal Takeaway**  
-Lorem ipsum
-{{% /hint %}}
--->
