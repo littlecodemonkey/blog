@@ -18,7 +18,6 @@ By Vyasa
 
 ## Overview  
 
-## TO FINISH : Template below
 ### Summary  
 "The Mahabharata" is a truly epic work. It's said to be the longest poem ever written and is packed with stories about duty, morality, and human relationships. It follows the tale of the Kuru dynasty, with a focus on the Pandavas and Kauravas and their eventual battle, the Kurukshetra war. Along the way, you’ll find tons of lessons about life and philosophy, including the Bhagavad Gita, which is like a guidebook for how to live your life.  
 
@@ -27,7 +26,11 @@ Reading "The Mahabharata" feels like peeling back the layers of what it means to
 
 {{% hint warning %}}  
 #### Personal Takeaway  
-"The Mahabharata" makes you think hard about whether you’re really living up to your responsibilities. I found myself comparing the characters’ struggles to my own—like trying to balance personal goals with what’s expected of me. The story also highlights how our actions can have ripple effects far beyond what we imagine, which is a humbling reminder to think things through.  
+"The Mahabharata" makes you think hard about whether you’re really living up to your responsibilities. I found myself 
+comparing the characters’ struggles to my own. Like trying to balance personal goals with what’s expected of me. The 
+story also highlights how our actions can have ripple effects far beyond what we imagine, which is a humbling reminder 
+to think things through.  
+
 {{% /hint %}}  
 
 ## The Story  
