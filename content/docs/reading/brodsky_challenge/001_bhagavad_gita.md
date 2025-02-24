@@ -281,8 +281,8 @@ greater.
 #### Personal Takeaway  
 The idea that devotion surpasses knowledge is unexpected but makes sense. At some point, reason and logic can only 
 take you so far. Krishna is saying that true peace comes from letting go and trusting something beyond yourself. The 
-universal form also puts things into perspective. Human concerns feel small compared to the vastness of reality. This 
-chapter reinforces the idea that surrendering to something bigger than yourself is not weakness, but the highest form 
+universal form also puts things into perspective. Human concerns feel small compared to the vastness of reality. These 
+chapters reinforce the idea that surrendering to something bigger than yourself is not weakness, but the highest form 
 of wisdom.
 {{% /hint %}}
 
